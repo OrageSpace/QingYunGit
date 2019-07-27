@@ -1,0 +1,2373 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://blog.didispace.com/tools/online-markdown/
+Subject: =?utf-8?Q?=E7=A8=8B=E5=BA=8F=E7=8C=BFDD - =E5=B8=B8=E7=94=A8=E5=B7=A5=E5=85=B7=EF=BC=
+=9AMarkdown=E8=BD=AC=E6=8D=A2=E5=B7=A5=E5=85=B7?=
+Date: Thu, 24 Jul 2019 04:50:19 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--a99MyE8HTdGG1PGcANB0c4MJFG2baeRgWKFY3jiIZS----"
+
+------MultipartBoundary--a99MyE8HTdGG1PGcANB0c4MJFG2baeRgWKFY3jiIZS----
+Content-Type: text/html
+Content-ID: <frame-58-5585b22b-1608-4dd8-8dec-63f466565fb0@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.didispace.com/tools/online-markdown/
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><meta name=3D"generator" content=3D"Hexo 3.8.0">
+   =20
+    <link rel=3D"shoticon" href=3D"http://blog.didispace.com/tools/online-m=
+arkdown/favicon.ico" type=3D"image/x-icon">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width,height=3Ddevice=
+-height,initial-scale=3D1,user-scalable=3D0">
+    <meta name=3D"description" content=3D"Markdown=E8=BD=AC=E6=8D=A2=E5=B7=
+=A5=E5=85=B7">
+    <title>=E7=A8=8B=E5=BA=8F=E7=8C=BFDD - =E5=B8=B8=E7=94=A8=E5=B7=A5=E5=
+=85=B7=EF=BC=9AMarkdown=E8=BD=AC=E6=8D=A2=E5=B7=A5=E5=85=B7</title>
+    <style></style><style type=3D"text/css">/*! Color themes for Google Cod=
+e Prettify | MIT License | github.com/jmblog/color-themes-for-google-code-p=
+rettify */
+.prettyprint {
+  background: #1d1f21;
+  font-family: Menlo, "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Monac=
+o, Consolas, monospace;
+  border: 0 !important;
+}
+
+.pln {
+  color: #c5c8c6;
+}
+
+/* Specify class=3Dlinenums on a pre to get line numbering */
+ol.linenums {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #969896;
+}
+
+li.L0,
+li.L1,
+li.L2,
+li.L3,
+li.L4,
+li.L5,
+li.L6,
+li.L7,
+li.L8,
+li.L9 {
+  padding-left: 1em;
+  background-color: #1d1f21;
+  list-style-type: decimal;
+}
+
+@media screen {
+
+  /* string content */
+
+  .str {
+    color: #b5bd68;
+  }
+
+  /* keyword */
+
+  .kwd {
+    color: #b294bb;
+  }
+
+  /* comment */
+
+  .com {
+    color: #969896;
+  }
+
+  /* type name */
+
+  .typ {
+    color: #81a2be;
+  }
+
+  /* literal value */
+
+  .lit {
+    color: #de935f;
+  }
+
+  /* punctuation */
+
+  .pun {
+    color: #c5c8c6;
+  }
+
+  /* lisp open bracket */
+
+  .opn {
+    color: #c5c8c6;
+  }
+
+  /* lisp close bracket */
+
+  .clo {
+    color: #c5c8c6;
+  }
+
+  /* markup tag name */
+
+  .tag {
+    color: #cc6666;
+  }
+
+  /* markup attribute name */
+
+  .atn {
+    color: #de935f;
+  }
+
+  /* markup attribute value */
+
+  .atv {
+    color: #8abeb7;
+  }
+
+  /* declaration */
+
+  .dec {
+    color: #de935f;
+  }
+
+  /* variable name */
+
+  .var {
+    color: #cc6666;
+  }
+
+  /* function name */
+
+  .fun {
+    color: #81a2be;
+  }
+}
+</style><style type=3D"text/css">@charset "utf-8";
+h3#headline {
+  color: #444;
+  margin: 0;
+  padding: 11px 0px 5px 0px;
+  font-size: 11px;
+  line-height: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+h2#headline {
+  color: #444;
+  margin: 0;
+  padding: 0px 0px 6px 0px;
+  font-size: 51px;
+  line-height: 44px;
+  letter-spacing: -2px;
+  font-weight: bold;
+  text-transform: none;
+}
+/* =E9=98=B2=E6=AD=A2=E7=94=A8=E6=88=B7=E8=87=AA=E5=AE=9A=E4=B9=89=E8=83=8C=
+=E6=99=AF=E9=A2=9C=E8=89=B2=E5=AF=B9=E7=BD=91=E9=A1=B5=E7=9A=84=E5=BD=B1=E5=
+=93=8D=EF=BC=8C=E6=B7=BB=E5=8A=A0=E8=AE=A9=E7=94=A8=E6=88=B7=E5=8F=AF=E4=BB=
+=A5=E8=87=AA=E5=AE=9A=E4=B9=89=E5=AD=97=E4=BD=93 */
+html {
+  color: #333;
+  background: #fff;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-rendering: optimizelegibility;
+}
+/* =E5=A6=82=E6=9E=9C=E4=BD=A0=E7=9A=84=E9=A1=B9=E7=9B=AE=E4=BB=85=E6=94=AF=
+=E6=8C=81 IE9+ | Chrome | Firefox =E7=AD=89=EF=BC=8C=E6=8E=A8=E8=8D=90=E5=
+=9C=A8 <html> =E4=B8=AD=E6=B7=BB=E5=8A=A0 .borderbox =E8=BF=99=E4=B8=AA cla=
+ss */
+html.borderbox *,
+html.borderbox *:before,
+html.borderbox *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* =E5=86=85=E5=A4=96=E8=BE=B9=E8=B7=9D=E9=80=9A=E5=B8=B8=E8=AE=A9=E5=90=84=
+=E4=B8=AA=E6=B5=8F=E8=A7=88=E5=99=A8=E6=A0=B7=E5=BC=8F=E7=9A=84=E8=A1=A8=E7=
+=8E=B0=E4=BD=8D=E7=BD=AE=E4=B8=8D=E5=90=8C */
+body,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td,
+hr,
+button,
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+menu,
+nav,
+section {
+  margin: 0;
+  padding: 0;
+}
+/* =E9=87=8D=E8=AE=BE HTML5 =E6=A0=87=E7=AD=BE, IE =E9=9C=80=E8=A6=81=E5=9C=
+=A8 js =E4=B8=AD createElement(TAG) */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+menu,
+nav,
+section {
+  display: block;
+}
+/* HTML5 =E5=AA=92=E4=BD=93=E6=96=87=E4=BB=B6=E8=B7=9F img =E4=BF=9D=E6=8C=
+=81=E4=B8=80=E8=87=B4 */
+audio,
+canvas,
+video {
+  display: inline-block;
+}
+/* =E8=A6=81=E6=B3=A8=E6=84=8F=E8=A1=A8=E5=8D=95=E5=85=83=E7=B4=A0=E5=B9=B6=
+=E4=B8=8D=E7=BB=A7=E6=89=BF=E7=88=B6=E7=BA=A7 font =E7=9A=84=E9=97=AE=E9=A2=
+=98 */
+body,
+button,
+input,
+select,
+textarea {
+  font: 300 1em/1.8 'PingFang SC', 'Lantinghei SC', 'Microsoft Yahei', 'Hir=
+agino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', 'sans';
+}
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+/* =E5=8E=BB=E6=8E=89=E5=90=84Table cell =E7=9A=84=E8=BE=B9=E8=B7=9D=E5=B9=
+=B6=E8=AE=A9=E5=85=B6=E8=BE=B9=E9=87=8D=E5=90=88 */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* =E5=8E=BB=E9=99=A4=E9=BB=98=E8=AE=A4=E8=BE=B9=E6=A1=86 */
+fieldset,
+img {
+  border: 0;
+}
+/* =E5=9D=97/=E6=AE=B5=E8=90=BD=E5=BC=95=E7=94=A8 */
+blockquote {
+  position: relative;
+  color: #999;
+  font-weight: 400;
+  border-left: 1px solid #1abc9c;
+  padding-left: 1em;
+  margin: 1em 0 1em 2em;
+}
+@media only screen and (max-width: 640px) {
+  blockquote {
+    margin: 1em 0;
+  }
+}
+/* Firefox =E4=BB=A5=E5=A4=96=EF=BC=8C=E5=85=83=E7=B4=A0=E6=B2=A1=E6=9C=89=
+=E4=B8=8B=E5=88=92=E7=BA=BF=EF=BC=8C=E9=9C=80=E6=B7=BB=E5=8A=A0 */
+acronym,
+abbr {
+  border-bottom: 1px dotted;
+  font-variant: normal;
+}
+/* =E6=B7=BB=E5=8A=A0=E9=BC=A0=E6=A0=87=E9=97=AE=E5=8F=B7=EF=BC=8C=E8=BF=9B=
+=E4=B8=80=E6=AD=A5=E7=A1=AE=E4=BF=9D=E5=BA=94=E7=94=A8=E7=9A=84=E8=AF=AD=E4=
+=B9=89=E6=98=AF=E6=AD=A3=E7=A1=AE=E7=9A=84=EF=BC=88=E8=A6=81=E7=9F=A5=E9=81=
+=93=EF=BC=8C=E4=BA=A4=E4=BA=92=E4=BB=96=E4=BB=AC=E4=B9=9F=E6=9C=89=E6=B4=81=
+=E7=99=96=EF=BC=8C=E5=A6=82=E6=9E=9C=E4=BD=A0=E4=B8=8D=E5=8E=BB=E6=8E=89=EF=
+=BC=8C=E9=82=A3=E5=BE=97=E5=A4=9A=E8=8A=B1=E7=82=B9=E5=8F=A3=E8=88=8C=EF=BC=
+=89 */
+abbr {
+  cursor: help;
+}
+/* =E4=B8=80=E8=87=B4=E7=9A=84 del =E6=A0=B7=E5=BC=8F */
+del {
+  text-decoration: line-through;
+}
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+th,
+var {
+  font-style: normal;
+  font-weight: 400;
+}
+/* =E5=8E=BB=E6=8E=89=E5=88=97=E8=A1=A8=E5=89=8D=E7=9A=84=E6=A0=87=E8=AF=86=
+, li =E4=BC=9A=E7=BB=A7=E6=89=BF=EF=BC=8C=E5=A4=A7=E9=83=A8=E5=88=86=E7=BD=
+=91=E7=AB=99=E9=80=9A=E5=B8=B8=E7=94=A8=E5=88=97=E8=A1=A8=E6=9D=A5=E5=BE=88=
+=E5=A4=9A=E5=86=85=E5=AE=B9=EF=BC=8C=E6=89=80=E4=BB=A5=E5=BA=94=E8=AF=A5=E5=
+=BD=93=E5=8E=BB */
+ul,
+ol {
+  list-style: none;
+}
+/* =E5=AF=B9=E9=BD=90=E6=98=AF=E6=8E=92=E7=89=88=E6=9C=80=E9=87=8D=E8=A6=81=
+=E7=9A=84=E5=9B=A0=E7=B4=A0, =E5=88=AB=E8=AE=A9=E4=BB=80=E4=B9=88=E9=83=BD=
+=E5=B1=85=E4=B8=AD */
+caption,
+th {
+  text-align: left;
+}
+q:before,
+q:after {
+  content: '';
+}
+/* =E7=BB=9F=E4=B8=80=E4=B8=8A=E6=A0=87=E5=92=8C=E4=B8=8B=E6=A0=87 */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+}
+:root sub,
+:root sup {
+  vertical-align: baseline;
+  /* for ie9 and other modern browsers */
+}
+sup {
+  top: -0.5em;
+}
+sub {
+  bottom: -0.25em;
+}
+/* =E8=AE=A9=E9=93=BE=E6=8E=A5=E5=9C=A8 hover =E7=8A=B6=E6=80=81=E4=B8=8B=
+=E6=98=BE=E7=A4=BA=E4=B8=8B=E5=88=92=E7=BA=BF */
+a {
+  color: #1abc9c;
+}
+a:hover {
+  text-decoration: underline;
+}
+.typo a {
+  border-bottom: 1px solid #1abc9c;
+}
+.typo a:hover {
+  border-bottom-color: #555;
+  color: #555;
+  text-decoration: none;
+}
+/* =E9=BB=98=E8=AE=A4=E4=B8=8D=E6=98=BE=E7=A4=BA=E4=B8=8B=E5=88=92=E7=BA=BF=
+=EF=BC=8C=E4=BF=9D=E6=8C=81=E9=A1=B5=E9=9D=A2=E7=AE=80=E6=B4=81 */
+ins,
+a {
+  text-decoration: none;
+}
+/* =E4=B8=93=E5=90=8D=E5=8F=B7=EF=BC=9A=E8=99=BD=E7=84=B6 u =E5=B7=B2=E7=BB=
+=8F=E9=87=8D=E5=9B=9E html5 Draft=EF=BC=8C=E4=BD=86=E5=9C=A8=E6=89=80=E6=9C=
+=89=E6=B5=8F=E8=A7=88=E5=99=A8=E4=B8=AD=E9=83=BD=E6=98=AF=E5=8F=AF=E4=BB=A5=
+=E4=BD=BF=E7=94=A8=E7=9A=84=EF=BC=8C
+ * =E8=A6=81=E5=81=9A=E5=88=B0=E6=9B=B4=E5=A5=BD=EF=BC=8C=E5=90=91=E5=90=8E=
+=E5=85=BC=E5=AE=B9=E7=9A=84=E8=AF=9D=EF=BC=8C=E6=B7=BB=E5=8A=A0 class=3D"ty=
+po-u" =E6=9D=A5=E6=98=BE=E7=A4=BA=E4=B8=93=E5=90=8D=E5=8F=B7
+ * =E5=85=B3=E4=BA=8E <u> =E6=A0=87=E7=AD=BE=EF=BC=9Ahttp://www.whatwg.org/=
+specs/web-apps/current-work/multipage/text-level-semantics.html#the-u-eleme=
+nt
+ * =E8=A2=AB=E6=94=BE=E5=BC=83=E7=9A=84=E6=98=AF 4=EF=BC=8C=E4=B9=8B=E5=89=
+=8D=E4=B8=80=E7=9B=B4=E6=90=9E=E9=94=99 http://www.w3.org/TR/html401/append=
+ix/changes.html#idx-deprecated
+ * =E4=B8=80=E7=AF=87=E5=85=B3=E4=BA=8E <u> =E6=A0=87=E7=AD=BE=E7=9A=84=E5=
+=BE=88=E5=A5=BD=E6=96=87=E7=AB=A0=EF=BC=9Ahttp://html5doctor.com/u-element/
+ */
+u,
+.typo-u {
+  text-decoration: underline;
+}
+/* =E6=A0=87=E8=AE=B0=EF=BC=8C=E7=B1=BB=E4=BC=BC=E4=BA=8E=E6=89=8B=E5=86=99=
+=E7=9A=84=E8=8D=A7=E5=85=89=E7=AC=94=E7=9A=84=E4=BD=9C=E7=94=A8 */
+mark {
+  background: #fffdd1;
+  border-bottom: 1px solid #ffedce;
+  padding: 2px;
+  margin: 0 5px;
+}
+/* =E4=BB=A3=E7=A0=81=E7=89=87=E6=96=AD */
+pre,
+code,
+pre tt {
+  font-family: Courier, 'Courier New', monospace;
+}
+pre {
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 1em 1.5em;
+  display: block;
+  -webkit-overflow-scrolling: touch;
+}
+/* =E4=B8=80=E8=87=B4=E5=8C=96 horizontal rule */
+hr {
+  border: none;
+  border-bottom: 1px solid #cfcfcf;
+  margin-bottom: 0.8em;
+  height: 10px;
+}
+/* =E5=BA=95=E9=83=A8=E5=8D=B0=E5=88=B7=E4=BD=93=E3=80=81=E7=89=88=E6=9C=AC=
+=E7=AD=89=E6=A0=87=E8=AE=B0 */
+small,
+.typo-small,
+figcaption {
+  font-size: 0.9em;
+  color: #888;
+}
+strong,
+b {
+  font-weight: bold;
+  color: #000;
+}
+/* =E5=8F=AF=E6=8B=96=E5=8A=A8=E6=96=87=E4=BB=B6=E6=B7=BB=E5=8A=A0=E6=8B=96=
+=E5=8A=A8=E6=89=8B=E5=8A=BF */
+[draggable] {
+  cursor: move;
+}
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  zoom: 1;
+}
+/* =E5=BC=BA=E5=88=B6=E6=96=87=E6=9C=AC=E6=8D=A2=E8=A1=8C */
+.textwrap,
+.textwrap td,
+.textwrap th {
+  word-wrap: break-word;
+  word-break: break-all;
+}
+.textwrap-table {
+  table-layout: fixed;
+}
+/* =E6=8F=90=E4=BE=9B serif =E7=89=88=E6=9C=AC=E7=9A=84=E5=AD=97=E4=BD=93=
+=E8=AE=BE=E7=BD=AE: iOS =E4=B8=8B=E4=B8=AD=E6=96=87=E8=87=AA=E5=8A=A8 fallb=
+ack =E5=88=B0 sans-serif */
+.serif {
+  font-family: Palatino, Optima, Georgia, serif;
+}
+/* =E4=BF=9D=E8=AF=81=E5=9D=97/=E6=AE=B5=E8=90=BD=E4=B9=8B=E9=97=B4=E7=9A=
+=84=E7=A9=BA=E7=99=BD=E9=9A=94=E8=A1=8C */
+.typo p,
+.typo pre,
+.typo ul,
+.typo ol,
+.typo dl,
+.typo form,
+.typo hr,
+.typo table,
+.typo-p,
+.typo-pre,
+.typo-ul,
+.typo-ol,
+.typo-dl,
+.typo-form,
+.typo-hr,
+.typo-table,
+blockquote {
+  margin-bottom: 1.2em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hirag=
+ino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
+  font-weight: 100;
+  color: #000;
+  line-height: 1.35;
+}
+/* =E6=A0=87=E9=A2=98=E5=BA=94=E8=AF=A5=E6=9B=B4=E8=B4=B4=E7=B4=A7=E5=86=85=
+=E5=AE=B9=EF=BC=8C=E5=B9=B6=E4=B8=8E=E5=85=B6=E4=BB=96=E5=9D=97=E5=8C=BA=E5=
+=88=86=EF=BC=8Cmargin =E5=80=BC=E8=A6=81=E7=9B=B8=E5=BA=94=E5=81=9A=E4=BC=
+=98=E5=8C=96 */
+.typo h1,
+.typo h2,
+.typo h3,
+.typo h4,
+.typo h5,
+.typo h6,
+.typo-h1,
+.typo-h2,
+.typo-h3,
+.typo-h4,
+.typo-h5,
+.typo-h6 {
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+  line-height: 1.35;
+}
+.typo h1,
+.typo-h1 {
+  font-size: 2em;
+}
+.typo h2,
+.typo-h2 {
+  font-size: 1.8em;
+}
+.typo h3,
+.typo-h3 {
+  font-size: 1.6em;
+}
+.typo h4,
+.typo-h4 {
+  font-size: 1.4em;
+}
+.typo h5,
+.typo h6,
+.typo-h5,
+.typo-h6 {
+  font-size: 1.2em;
+}
+/* =E5=9C=A8=E6=96=87=E7=AB=A0=E4=B8=AD=EF=BC=8C=E5=BA=94=E8=AF=A5=E8=BF=98=
+=E5=8E=9F ul =E5=92=8C ol =E7=9A=84=E6=A0=B7=E5=BC=8F */
+.typo ul,
+.typo-ul {
+  margin-left: 1.3em;
+  list-style: disc;
+}
+.typo ol,
+.typo-ol {
+  list-style: decimal;
+  margin-left: 1.9em;
+}
+.typo li ul,
+.typo li ol,
+.typo-ul ul,
+.typo-ul ol,
+.typo-ol ul,
+.typo-ol ol {
+  margin-bottom: 0.8em;
+  margin-left: 2em;
+}
+.typo li ul,
+.typo-ul ul,
+.typo-ol ul {
+  list-style: circle;
+}
+/* =E5=90=8C ul/ol=EF=BC=8C=E5=9C=A8=E6=96=87=E7=AB=A0=E4=B8=AD=E5=BA=94=E7=
+=94=A8 table =E5=9F=BA=E6=9C=AC=E6=A0=BC=E5=BC=8F */
+.typo table th,
+.typo table td,
+.typo-table th,
+.typo-table td,
+.typo table caption {
+  border: 1px solid #ddd;
+  padding: 0.5em 1em;
+  color: #666;
+}
+.typo table th,
+.typo-table th {
+  background: #fbfbfb;
+}
+.typo table thead th,
+.typo-table thead th {
+  background: #f1f1f1;
+}
+.typo table caption {
+  border-bottom: none;
+}
+/* =E5=8E=BB=E9=99=A4 webkit =E4=B8=AD input =E5=92=8C textarea =E7=9A=84=
+=E9=BB=98=E8=AE=A4=E6=A0=B7=E5=BC=8F  */
+.typo-input,
+.typo-textarea {
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+.typo-em,
+.typo em,
+legend,
+caption {
+  color: #000;
+  font-weight: inherit;
+}
+/* =E7=9D=80=E9=87=8D=E5=8F=B7=EF=BC=8C=E5=8F=AA=E8=83=BD=E5=9C=A8=E5=B0=91=
+=E9=87=8F=EF=BC=88=E5=B0=91=E4=BA=8E100=E4=B8=AA=E5=AD=97=E7=AC=A6=EF=BC=89=
+=E4=B8=94=E5=85=A8=E6=98=AF=E5=85=A8=E8=A7=92=E5=AD=97=E7=AC=A6=E7=9A=84=E6=
+=83=85=E5=86=B5=E4=B8=8B=E4=BD=BF=E7=94=A8 */
+.typo-em {
+  position: relative;
+}
+.typo-em:after {
+  position: absolute;
+  top: 0.65em;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  content: "\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30=
+FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30=
+FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30=
+FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30=
+FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30=
+FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30=
+FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB\30FB";
+}
+/* Responsive images */
+.typo img {
+  max-width: 100%;
+}
+::selection {
+  background: #fde6ba;
+  color: #000;
+}
+button,
+textarea,
+select {
+  outline: none;
+}
+body,
+html {
+  overflow: hidden;
+}
+body {
+  font-size: 15px !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Menlo', 'Monaco', 'Source Code Pro', 'Consolas', 'Inconsola=
+ta', 'Ubuntu Mono', 'DejaVu Sans Mono', 'Courier New', 'Droid Sans Mono', '=
+Hiragino Sans GB', '\5FAE\8F6F\96C5\9ED1', monospace !important;
+}
+h1 {
+  font-size: 26px;
+}
+h2 {
+  font-size: 22px;
+}
+h3 {
+  font-size: 18px;
+}
+h4 {
+  font-size: 14px;
+}
+a {
+  font-size: 15px !important;
+  word-break: break-all !important;
+}
+ul,
+ol {
+  padding-left: 32px !important;
+  list-style-type: square !important;
+}
+ul li span,
+ol li span {
+  font-size: 14px !important;
+  color: #4a4a4a;
+}
+ol {
+  list-style-type: decimal !important;
+}
+.topheader {
+  overflow: hidden;
+  -webkit-user-select: none;
+  height: 68px;
+  padding: 0 20px;
+  position: relative;
+  background: #499bea;
+  background: -moz-linear-gradient(left, #e5e5be 0, #003973 100%);
+  background: -webkit-gradient(linear, left, right, color-sleft(0%, #e5e5be=
+), color-sleft(100%, #003973));
+  background: -webkit-linear-gradient(left, #e5e5be 0, #003973 100%);
+  background: -o-linear-gradient(left, #e5e5be 0, #003973 100%);
+  background: -ms-linear-gradient(left, #e5e5be 0, #003973 100%);
+  background: linear-gradient(to left, #e5e5be 0, #003973 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=3D'#e5e5=
+be', endColorstr=3D'#003973', GradientType=3D1);
+}
+.topheader h1 {
+  font-size: 30px;
+  line-height: 64px;
+  color: #FFF;
+  font-family: fantasy,cursive,consolas;
+  text-shadow: 1px 1px 1px #000, 1px 1px 3px #CCC;
+  display: inline-block;
+}
+.topheader span {
+  font-size: 13px;
+  display: inline-block;
+  margin-left: 0;
+  color: #E4E4E4;
+  position: relative;
+  top: 10px;
+}
+.topheader span a {
+  color: #E4E4E4;
+}
+.topheader a:hover {
+  color: #e58c7c;
+}
+.topheader ul {
+  position: absolute;
+  right: 20px;
+  top: 0;
+  list-style-type: none !important;
+  height: 64px;
+  line-height: 64px;
+}
+.topheader ul li {
+  float: left;
+  margin-left: 20px;
+  font-family: consolas;
+}
+.topheader ul li a {
+  color: #555;
+  display: inline-block;
+  height: 100%;
+  line-height: 64px;
+}
+.topheader ul li a {
+  color: #555;
+}
+.topheader ul li a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+.topheader ul li .icon {
+  margin-right: 4px;
+  vertical-align: middle;
+  transition: none;
+}
+textarea {
+  width: 100%;
+  margin: 0;
+  padding: 1em;
+  overflow: auto;
+  border: none;
+  background-color: #fff;
+  font-family: courier, monospace;
+  font-size: inherit;
+  color: inherit;
+  outline: none;
+  background: #333;
+  color: #fff;
+  position: absolute;
+  top: 64px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  resize: none;
+  z-index: 2;
+  font-size: 15px;
+}
+#output {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  resize: none;
+  z-index: 1;
+  background: #EEE;
+  overflow: hidden;
+}
+#output .wrapper {
+  overflow-y: auto;
+  height: 100%;
+  margin: 20px auto;
+  background: #FFF;
+  padding: 1rem;
+  width: 800px;
+  padding-bottom: 100px;
+  max-width: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+.github-star {
+  position: relative;
+  top: 5px;
+}
+.btn {
+  border: none;
+  color: white;
+  padding: 5px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 1px 1px 3px #666;
+}
+.convert-button,
+.copy-button {
+  position: absolute;
+  right: 110px;
+  z-index: 3;
+  top: 80px;
+  border-radius: 3px;
+  background-color: #3a6586;
+}
+.convert-button {
+  right: 15px;
+  background-color: #e3e4bd;
+  color: #555;
+}
+.themes-config {
+  margin: 0 auto;
+  width: 800px;
+  max-width: 100%;
+  padding-top: 20px;
+  padding-left: 8px;
+}
+.themes-config .theme-wrapper {
+  margin-top: 8px;
+  display: inline-block;
+  margin-right: 20px;
+}
+.themes-config .theme-wrapper select {
+  background: #FFF;
+}
+@media screen and (max-width: 641px) {
+  .topheader ul {
+    display: none;
+  }
+  .btn {
+    padding: 2px 15px;
+    font-size: 14px;
+  }
+  .copy-button {
+    right: 80px;
+  }
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #50616D;
+}
+a {
+  color: #1e6bb8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+:first-child {
+  margin-top: 0;
+}
+img {
+  border-radius: 6px;
+  border: 2px solid #EEE;
+  max-width: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+  color: #159957;
+}
+p {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+pre p {
+  margin: 0;
+}
+pre ul,
+pre ol {
+  margin: 0;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+pre code,
+pre tt {
+  display: inline;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  border: 0;
+}
+pre code:before,
+pre code:after,
+pre tt:before,
+pre tt:after {
+  content: normal;
+}
+ul,
+ol {
+  margin-top: 0;
+}
+blockquote {
+  padding: 15px 1rem;
+  font-size: 14px;
+  line-height: 18px;
+  padding-right: 15px;
+  margin-left: 0;
+  color: #819198;
+  border-left: 6px solid #dce6f0;
+  background: #f2f7fb;
+}
+blockquote > :first-child {
+  margin-top: 0;
+}
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+table th {
+  font-weight: bold;
+}
+table th,
+table td {
+  padding: 0.5rem 1rem;
+  border: 1px solid #e9ebec;
+}
+dl {
+  padding: 0;
+}
+dl dt {
+  padding: 0;
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+}
+dl dd {
+  padding: 0;
+  margin-bottom: 1rem;
+}
+hr {
+  height: 1px;
+  margin: 1.5rem 0;
+  border: none;
+  border-top: 1px dashed #A5A5A5;
+}
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #F0F0F0;
+}
+.hljs,
+.hljs-subst {
+  color: #444;
+}
+.hljs-comment {
+  color: #888888;
+}
+.hljs-attribute,
+.hljs-doctag,
+.hljs-keyword,
+.hljs-meta-keyword,
+.hljs-name,
+.hljs-selector-tag {
+  font-weight: bold;
+}
+.hljs-deletion,
+.hljs-number,
+.hljs-quote,
+.hljs-selector-class,
+.hljs-selector-id,
+.hljs-string,
+.hljs-template-tag,
+.hljs-type {
+  color: #880000;
+}
+.hljs-section,
+.hljs-title {
+  color: #880000;
+  font-weight: bold;
+}
+.hljs-link,
+.hljs-regexp,
+.hljs-selector-attr,
+.hljs-selector-pseudo,
+.hljs-symbol,
+.hljs-template-variable,
+.hljs-variable {
+  color: #BC6060;
+}
+.hljs-literal {
+  color: #78A960;
+}
+.hljs-addition,
+.hljs-built_in,
+.hljs-bullet,
+.hljs-code {
+  color: #397300;
+}
+.hljs-meta {
+  color: #1f7199;
+}
+.hljs-meta-string {
+  color: #4d99bf;
+}
+.hljs-emphasis {
+  font-style: italic;
+}
+.hljs-strong {
+  font-weight: bold;
+}
+.pln {
+  color: #000;
+}
+@media screen {
+  .str {
+    color: #080;
+  }
+  .kwd {
+    color: #008;
+  }
+  .com {
+    color: #800;
+  }
+  .typ {
+    color: #606;
+  }
+  .lit {
+    color: #066;
+  }
+  .pun,
+  .opn,
+  .clo {
+    color: #660;
+  }
+  .tag {
+    color: #008;
+  }
+  .atn {
+    color: #606;
+  }
+  .atv {
+    color: #080;
+  }
+  .dec,
+  .var {
+    color: #606;
+  }
+  .fun {
+    color: red;
+  }
+}
+@media print, projection {
+  .str {
+    color: #060;
+  }
+  .kwd {
+    color: #006;
+    font-weight: bold;
+  }
+  .com {
+    color: #600;
+    font-style: italic;
+  }
+  .typ {
+    color: #404;
+    font-weight: bold;
+  }
+  .lit {
+    color: #044;
+  }
+  .pun,
+  .opn,
+  .clo {
+    color: #440;
+  }
+  .tag {
+    color: #006;
+    font-weight: bold;
+  }
+  .atn {
+    color: #404;
+  }
+  .atv {
+    color: #060;
+  }
+}
+.pln {
+  color: #000;
+}
+@media screen {
+  .str {
+    color: #080;
+  }
+  .kwd {
+    color: #008;
+  }
+  .com {
+    color: #800;
+  }
+  .typ {
+    color: #606;
+  }
+  .lit {
+    color: #066;
+  }
+  .pun,
+  .opn,
+  .clo {
+    color: #660;
+  }
+  .tag {
+    color: #008;
+  }
+  .atn {
+    color: #606;
+  }
+  .atv {
+    color: #080;
+  }
+  .dec,
+  .var {
+    color: #606;
+  }
+  .fun {
+    color: red;
+  }
+}
+@media print, projection {
+  .str {
+    color: #060;
+  }
+  .kwd {
+    color: #006;
+    font-weight: bold;
+  }
+  .com {
+    color: #600;
+    font-style: italic;
+  }
+  .typ {
+    color: #404;
+    font-weight: bold;
+  }
+  .lit {
+    color: #044;
+  }
+  .pun,
+  .opn,
+  .clo {
+    color: #440;
+  }
+  .tag {
+    color: #006;
+    font-weight: bold;
+  }
+  .atn {
+    color: #404;
+  }
+  .atv {
+    color: #060;
+  }
+}
+pre.prettyprint {
+  border-radius: 0;
+  font-family: 'consolas', 'menlo', 'courier', 'monospace', 'Microsoft Yahe=
+i' !important;
+  overflow-y: auto;
+}
+pre.prettyprint {
+  border-radius: 0;
+  font-family: 'consolas', 'menlo', 'courier', 'monospace', 'Microsoft Yahe=
+i' !important;
+  overflow-y: auto;
+}
+pre.prettyprint.linenums {
+  border: 1px solid #e2e2e2 !important;
+  padding: 8px 0 6px;
+}
+ol.linenums {
+  margin-top: 0;
+  margin-bottom: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  list-style-type: none !important;
+}
+ol.linenums li > span {
+  word-break: inherit !important;
+  white-space: nowrap !important;
+  display: block;
+}
+ol.linenums li > span > span {
+  word-break: inherit !important;
+  white-space: nowrap !important;
+  display: block;
+}
+ol.linenums li code {
+  line-height: 20px !important;
+  margin-left: -20px;
+  font-family: inherit !important;
+  white-space: pre !important;
+  display: flex;
+}
+ol.linenums li code span {
+  white-space: inherit !important;
+  font-size: 13px !important;
+  line-height: 20px;
+  font-family: 'consolas', 'menlo', 'courier', 'monospace', 'Microsoft Yahe=
+i' !important;
+}
+.code-in-text {
+  color: #585858;
+  background: #f3f1f1;
+}
+.code-in-text span {
+  color: #585858;
+  background: #f3f1f1;
+  display: inline-block;
+  padding: 0 2px;
+  font-size: 14px;
+  font-family: 'consolas', 'menlo', 'courier', 'monospace', 'Microsoft Yahe=
+i' !important;
+}
+.prettyprint.code-in-text {
+  background: #f3f1f1;
+  font-family: 'consolas', 'menlo', 'courier', 'monospace', 'Microsoft Yahe=
+i' !important;
+}
+li.L0,
+li.L1,
+li.L2,
+li.L3,
+li.L4,
+li.L5,
+li.L6,
+li.L7,
+li.L8,
+li.L9 {
+  list-style-type: none !important;
+}
+li.L1,
+li.L3,
+li.L5,
+li.L7,
+li.L9 {
+  list-style-type: none !important;
+  background: transparent !important;
+}
+.prettyprint {
+  font-family: Consolas, Menlo, Courier, monospace;
+}
+.prettyprint pre p {
+  min-height: 10px;
+}
+#list1 ul {
+  padding-left: 10px;
+}
+ul li.task-list-list {
+  list-style-type: none;
+  padding: 0 10px;
+}
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  padding-left: 40px;
+}
+.task-list-list {
+  margin: 0;
+  padding: 0;
+}
+table {
+  display: table;
+  width: 100%;
+}
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+.task-list-list.checked {
+  color: #159957;
+}
+.task-list-list.uncheck {
+  color: #bfc1bf;
+}
+.task-list-list img {
+  height: 20px;
+  width: 20px;
+  margin: 0 10px;
+  top: 4px;
+  position: relative;
+}
+h1.super {
+  white-space: normal;
+  border: none;
+  margin: 5px 0 0;
+  padding: 10px;
+  font-size: 24px;
+  line-height: 20px;
+  border-left-width: 6px;
+  border-left-style: solid;
+  border-radius: 3px;
+  color: #FFFBF0;
+  border-left-color: #30DFF3;
+  background-color: #4B5CC4;
+}
+h2.super {
+  white-space: normal;
+  border: none;
+  margin: 5px 0 0;
+  padding: 10px;
+  font-size: 20px;
+  line-height: 20px;
+  border-left-width: 12px;
+  border-left-style: solid;
+  border-radius: 3px;
+  color: #FFFBF0;
+  border-left-color: #30DFF3;
+  background-color: #4B5CC4;
+}
+h3.super {
+  white-space: normal;
+  border: none;
+  margin: 5px 0 0;
+  padding: 10px;
+  font-size: 18px;
+  line-height: 20px;
+  border-left-width: 18px;
+  border-left-style: solid;
+  border-radius: 3px;
+  color: #FFFBF0;
+  border-left-color: #30DFF3;
+  background-color: #4B5CC4;
+}
+h4.super {
+  white-space: normal;
+  border: none;
+  margin: 5px 0 0;
+  padding: 10px;
+  font-size: 16px;
+  line-height: 20px;
+  border-left-width: 24px;
+  border-left-style: solid;
+  border-radius: 3px;
+  color: #FFFBF0;
+  border-left-color: #30DFF3;
+  background-color: #4B5CC4;
+}
+ruby {
+  background-color: rgba(67, 193, 105, 0.5);
+  margin: 4px;
+  padding-right: 2px;
+  padding-left: 2px;
+}
+ruby rt {
+  font-style: italic;
+  background-color: rgba(67, 193, 105, 0.2);
+}
+.icon_uncheck,
+.icon_check {
+  display: inline-block;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-right: 4px;
+}
+.icon_check {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAA=
+ABACAMAAACdt4HsAAABUFBMVEUAAAAVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcV=
+mVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVc=
+VmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmV=
+cVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVm=
+VcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcV=
+mVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVcVmVc=
+VmVcVmVcVmVcVmVcVmVcVmVcO2ZyiAAAAb3RSTlMAAQIDBQYHCAkKDQ8QERITFBUWFxgZGxwdHi=
+AhIiMoKissLTM4PkBBREpMUFFSVFZZW1xdXl9hYmNvc3V4e35/goOMkZeYmpudnqCio6WmqKq1t=
+7m6vsDBw8zOz9HT19nc3uLk6Onr7e/x8/X5+/2VuNh1AAACKUlEQVRYw+3W61/SUBjA8WcIlpXZ=
+RbuhZmVZGJXdtQvaTQuz1LQMs1IMFMbv/3/Xiw04O9vZzvzUO593HM739xkbsIkczj+b47delpd=
+XYmd5/tmNIwZ+/guWMxfpp7Ge3+0jPpfp+gV7v3dKRESc11C92PbP7X3d958B3BHPXwagVuhLPN=
+GZY1nPf/JyfmET4Guv/QVre7+QB9jOpfBL3Y/k5v0rMH4wD/WsrAKtjL3/GDyt12QH2Dqw56oAr=
+Fn7Rc3/yqQKhPyffkkTcMqar/VLmkC0tw84H3R/UtIETF4PHL37dDDSvzd4LXCpAUym8cFA3gXg=
+Tsjrfxn1AYkKDLv++0XNz5u9GhhxOzuK1l4JDLnKnqKtVwI/A7tud/y7WN8N5LR9fsF5G/2/GnE=
+EDW3npJVXAtcJF5w3SV69CvdChbA/LTEBmdILm8k++E2cSrgv+V69rWm/hfs2fo5XxkBcYe+Mt2=
+UWVswBeWDy+76fIT5gKuyf9d9vJQWiCx0vJAbkYZy3CYQLircKyCOztwsEC41BSR2QxyZvG+gWN=
+G8dkCe+H5IDBrxCyIcCu0Al+m52s0llIPLnu6i8XgeajuF+mA2v9QGUlIUSwKhYTwGgoCyMAWxY=
+P2X11gBOKCuZKsCCZSH3LXzSJwDYGHWSeWZ8G4ALwWX/ybFZWUuYrZa3c0br9nwn1ZRDR9azlMa=
+/iPqsE1Vb/uOK4fSMldZ3k/DO6vSwHM5/mL+n5I2BF31JYgAAAABJRU5ErkJggg=3D=3D);
+}
+.icon_uncheck {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAA=
+ABACAMAAACdt4HsAAAAt1BMVEUAAAC/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/=
+wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+=
+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb=
++/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+/wb+rCW7jAAAAPHRSTlMAAQMECAkKCw4QE=
+RweJiorLDg6O0JFRk1QUV5hZmhpa36AhYiOj5udpbC1t7m+x9Ha3uLk6Ovt7/H3+/3V7YVuAAAB=
+MElEQVRYw+2Xx1YCMRhGv2Fo0qSDFEWqIL0I4n3/53IR5qC4IXGbu5pZ3DuT/2SRSBGZWncwntz=
+B+LVdTuiGoL7FimXhl59bY8178upXceGQjfwGbnxdCnlcOSQlKTyat1UpHugugnTz4zIHSeqY52=
+fZEL4ZqyDFzgC0ZIkpLKUiAFNbX6FZRUI9ALLWATUBKGsGcLL3lQagrQ3A3CEQAPAqACYOAWOO/=
+xuY+IAP+IAP+IAP+IAP+MCfwFh7t4NqdMwbaAGwcwjEAehqCMCDfaAEQE0VAPr2gRUAmcuf8Gjr=
+vwCwlTQC4NOy0DLfrUtKXS5AfYs5ZKfGWQdSdPAHdtPJXcxPkZEzvb7rra0abQnHQuO6picH/Zj=
+/OZXUyFI/d8LbnVkZLvb3yZtZrxiLvG/BQxobYX07aQAAAABJRU5ErkJggg=3D=3D);
+}
+</style>
+    <link rel=3D"stylesheet" href=3D"http://blog.didispace.com/tools/online=
+-markdown/themes/atelier-forest-light.css" id=3D"codeThemeId">
+    <link rel=3D"stylesheet" id=3D"pageThemeId" href=3D"http://blog.didispa=
+ce.com/tools/online-markdown/pageThemes/%E5%AD%97%E5%8F%B7%E5%81%8F%E5%A4%A=
+7-%E9%97%B4%E8%B7%9D%E5%81%8F%E5%A4%A7-%E5%AE%BD%E5%B1%8F%E6%A8%A1%E5%BC%8F=
+.css">
+    <style type=3D"text/css">
+        html, body {
+            height: 100%;
+        }
+
+        .topheader {
+            width: 100%;
+            float: left;
+            height: 100px;
+        }
+
+        #input {
+            width: 50%;
+            position: absolute;
+            top: 100px;
+            /*bottom: 100px;*/
+            left: 0px;
+        }
+
+        #output {
+            width: 50%;
+            position: absolute;
+            top: 100px;
+            /*bottom: 100px;*/
+            left: 50%;
+        }
+
+        .convert-button, .copy-button {
+            position: inherit;
+        }
+
+        .google-adv {
+            height: 100px;
+            width: 50%;
+            position: absolute;
+            top: 0px;
+            right: 200px;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class=3D"topheader">
+    <a href=3D"http://blog.didispace.com/"><h1>=E5=B8=B8=E7=94=A8=E5=B7=A5=
+=E5=85=B7</h1></a>
+    <span>Markdown=E8=BD=AC=E6=8D=A2=E5=B7=A5=E5=85=B7</span>
+    <!--Google adv-->
+    <div class=3D"google-adv">
+       =20
+        <ins class=3D"adsbygoogle" style=3D"display:block" data-ad-client=
+=3D"ca-pub-8254913025324557" data-ad-slot=3D"8885020021" data-ad-format=3D"=
+auto"></ins>
+       =20
+    </div>
+
+    <ul>
+        <li>
+            <iframe allowtransparency=3D"true" frameborder=3D"0" scrolling=
+=3D"0" width=3D"90px" height=3D"20px" class=3D"github-star" src=3D"cid:fram=
+e-61-9cc1bef8-7e47-4315-b38a-8eb52b98fc2a@mhtml.blink"></iframe>
+        </li>
+    </ul>
+</div>
+
+<!--=E7=BC=96=E8=BE=91-->
+<textarea id=3D"input" spellcheck=3D"false"></textarea>
+
+<!--=E9=A2=84=E8=A7=88-->
+    <div id=3D"output" class=3D"themes-config">
+        <div class=3D"theme-wrapper">
+            <label>=E9=A1=B5=E9=9D=A2=E4=B8=BB=E9=A2=98=E9=80=89=E6=8B=A9=
+=EF=BC=9A</label><select class=3D"page-theme"><option value=3D"=E9=BB=98=E8=
+=AE=A4=E6=A0=B7=E5=BC=8F-=E9=80=82=E5=90=88=E4=BB=A3=E7=A0=81">=E9=BB=98=E8=
+=AE=A4=E6=A0=B7=E5=BC=8F-=E9=80=82=E5=90=88=E4=BB=A3=E7=A0=81</option><opti=
+on value=3D"=E5=AD=97=E5=8F=B7=E5=81=8F=E5=A4=A7-=E9=97=B4=E8=B7=9D=E5=81=
+=8F=E5=A4=A7-=E7=AA=84=E5=B1=8F=E6=A8=A1=E5=BC=8F">=E5=AD=97=E5=8F=B7=E5=81=
+=8F=E5=A4=A7-=E9=97=B4=E8=B7=9D=E5=81=8F=E5=A4=A7-=E7=AA=84=E5=B1=8F=E6=A8=
+=A1=E5=BC=8F</option><option value=3D"=E5=AD=97=E5=8F=B7=E5=81=8F=E5=A4=A7-=
+=E9=97=B4=E8=B7=9D=E5=81=8F=E5=A4=A7-=E5=AE=BD=E5=B1=8F=E6=A8=A1=E5=BC=8F" =
+selected=3D"">=E5=AD=97=E5=8F=B7=E5=81=8F=E5=A4=A7-=E9=97=B4=E8=B7=9D=E5=81=
+=8F=E5=A4=A7-=E5=AE=BD=E5=B1=8F=E6=A8=A1=E5=BC=8F</option></select><br><br>
+            <label>=E4=BB=A3=E7=A0=81=E4=B8=BB=E9=A2=98=E9=80=89=E6=8B=A9=
+=EF=BC=9A</label><select class=3D"code-theme"><option value=3D"atelier-cave=
+-dark">atelier-cave-dark</option><option value=3D"atelier-cave-light">ateli=
+er-cave-light</option><option value=3D"atelier-dune-dark">atelier-dune-dark=
+</option><option value=3D"atelier-dune-light">atelier-dune-light</option><o=
+ption value=3D"atelier-estuary-dark">atelier-estuary-dark</option><option v=
+alue=3D"atelier-estuary-light">atelier-estuary-light</option><option value=
+=3D"atelier-forest-dark">atelier-forest-dark</option><option value=3D"ateli=
+er-forest-light" selected=3D"">atelier-forest-light</option><option value=
+=3D"atelier-heath-dark">atelier-heath-dark</option><option value=3D"atelier=
+-heath-light">atelier-heath-light</option><option value=3D"atelier-lakeside=
+-dark">atelier-lakeside-dark</option><option value=3D"atelier-lakeside-ligh=
+t">atelier-lakeside-light</option><option value=3D"atelier-plateau-dark">at=
+elier-plateau-dark</option><option value=3D"atelier-plateau-light">atelier-=
+plateau-light</option><option value=3D"atelier-savanna-dark">atelier-savann=
+a-dark</option><option value=3D"atelier-savanna-light">atelier-savanna-ligh=
+t</option><option value=3D"atelier-seaside-dark">atelier-seaside-dark</opti=
+on><option value=3D"atelier-seaside-light">atelier-seaside-light</option><o=
+ption value=3D"atelier-sulphurpool-dark">atelier-sulphurpool-dark</option><=
+option value=3D"atelier-sulphurpool-light">atelier-sulphurpool-light</optio=
+n><option value=3D"github-light">github-light</option><option value=3D"gith=
+ub-v2">github-v2</option><option value=3D"github">github</option><option va=
+lue=3D"hemisu-dark">hemisu-dark</option><option value=3D"hemisu-light">hemi=
+su-light</option><option value=3D"tomorrow-night-blue">tomorrow-night-blue<=
+/option><option value=3D"tomorrow-night-bright">tomorrow-night-bright</opti=
+on><option value=3D"tomorrow-night-eighties">tomorrow-night-eighties</optio=
+n><option value=3D"tomorrow-night">tomorrow-night</option><option value=3D"=
+tomorrow">tomorrow</option><option value=3D"tranquil-heart">tranquil-heart<=
+/option><option value=3D"vibrant-ink">vibrant-ink</option></select>
+        </div>
+        <div class=3D"theme-wrapper">
+            <button class=3D"btn copy-button" data-clipboard-action=3D"copy=
+" data-clipboard-target=3D"#outputCtt">=E5=A4=8D=E5=88=B6</button>
+        </div>
+        <div class=3D"wrapper" id=3D"outputCtt"><blockquote>
+  <h1 id=3D"linux">Linux=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E7=9A=84=E5=AE=
+=89=E8=A3=85</h1>
+  <p>=E4=B8=BA=E4=BA=86=E6=A8=A1=E6=8B=9F=E4=BC=81=E4=B8=9A=E4=B8=AD=E7=9A=
+=84=E7=9C=9F=E5=AE=9E=E5=BC=80=E5=8F=91=E7=8E=AF=E5=A2=83=EF=BC=8C=E6=88=91=
+=E4=BB=AC=E5=8F=AF=E4=BB=A5=E4=BD=BF=E7=94=A8=E8=99=9A=E6=8B=9F=E6=9C=BA=E5=
+=AE=89=E8=A3=85Linux=E7=B3=BB=E7=BB=9F=E5=B9=B6=E9=85=8D=E7=BD=AELinux=E6=
+=9C=8D=E5=8A=A1=E5=99=A8=E3=80=82</p>
+</blockquote>
+<ol>
+<li><span><span><p><strong>=E5=AE=89=E8=A3=85=E7=8E=AF=E5=A2=83</strong></p=
+>
+<p>=E8=99=9A=E6=8B=9F=E6=9C=BA=EF=BC=88Virtual Machine=EF=BC=89=E5=80=BC=E7=
+=9A=84=E6=98=AF=E8=BF=90=E8=A1=8C=E5=9C=A8=E6=9F=90=E4=B8=80=E4=B8=AA=E6=93=
+=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=EF=BC=88=E5=A6=82Windows=EF=BC=89=E4=B9=8B=
+=E4=B8=8A=E6=A8=A1=E6=8B=9F=E5=AE=8C=E6=95=B4=E7=A1=AC=E4=BB=B6=E7=B3=BB=E7=
+=BB=9F=E5=8A=9F=E8=83=BD=E7=9A=84=E8=BD=AF=E4=BB=B6=E3=80=82=E8=BF=9B=E5=85=
+=A5=E8=99=9A=E6=8B=9F=E6=9C=BA=E5=90=8E=EF=BC=8C=E6=89=80=E6=9C=89=E6=93=8D=
+=E4=BD=9C=E9=83=BD=E6=98=AF=E5=9C=A8=E8=BF=99=E4=B8=AA=E5=85=A8=E6=96=B0=E7=
+=9A=84=E3=80=81=E7=8B=AC=E7=AB=8B=E7=9A=84=E8=99=9A=E6=8B=9F=E7=B3=BB=E7=BB=
+=9F=E9=87=8C=E9=9D=A2=E8=BF=9B=E8=A1=8C=EF=BC=8C=E5=8F=AF=E4=BB=A5=E7=8B=AC=
+=E7=AB=8B=E5=AE=89=E8=A3=85=E7=B3=BB=E7=BB=9F=E3=80=81=E8=BF=90=E8=A1=8C=E8=
+=BD=AF=E4=BB=B6=E3=80=81=E4=BF=9D=E5=AD=98=E6=95=B0=E6=8D=AE=E3=80=82</p>
+<p>=E5=B8=B8=E7=94=A8=E7=9A=84=E8=99=9A=E6=8B=9F=E6=9C=BA=E8=BD=AF=E4=BB=B6=
+=E6=9C=89VirtualBox=E3=80=81Vmware workstation=E3=80=81Virtual PC=E7=AD=89=
+=E3=80=82</p>
+<p>=E5=9C=A8=E5=AE=89=E8=A3=85=E8=99=9A=E6=8B=9F=E6=9C=BA=E4=B9=8B=E5=89=8D=
+=EF=BC=8C=E6=88=91=E4=BB=AC=E9=9C=80=E8=A6=81=E7=A1=AE=E8=AE=A4=E6=9C=AC=E6=
+=9C=BAbios=E9=80=89=E5=9E=8B=E4=B8=AD=EF=BC=8CVirtualization=EF=BC=88=E8=99=
+=9A=E6=8B=9F=E5=8C=96=EF=BC=89=E4=B8=BAenable=E7=8A=B6=E6=80=81=E3=80=82</p=
+>
+<p>=E6=B3=A8=E6=84=8F=EF=BC=9A</p>
+<p>Virtualization=E6=98=AFbios=E9=80=89=E9=A1=B9=E4=B8=AD=E7=9A=84=E4=B8=80=
+=E9=A1=B9=EF=BC=8CVirtualization=E5=BC=80=E5=90=AF=E4=BB=A3=E8=A1=A8=E6=9C=
+=AC=E6=9C=BA=E6=94=AF=E6=8C=81=E8=99=9A=E6=8B=9F=E5=8C=96=E6=93=8D=E4=BD=9C=
+=EF=BC=8C=E5=8F=8D=E4=B9=8B=E5=88=99=E4=B8=8D=E6=94=AF=E6=8C=81=E3=80=82bio=
+s=E4=B8=ADVirtualization=E8=AE=BE=E7=BD=AE=E7=9A=84=E8=B7=AF=E5=BE=84=E4=B8=
+=BAbios--&gt;secirity--&gt;Virtualization=E3=80=82</p></span></span></li>
+<li><span><span><p><strong>CentOS=E5=AE=89=E8=A3=85</strong></p>
+<ul>
+<li>=E4=B8=8B=E8=BD=BD=E5=B9=B6=E5=AE=89=E8=A3=85VMware Workstation 12</li>=
+</ul>
+<p><a href=3D"https://pan.baidu.com/s/1FrbMNuE6lH8YDR36I1npQg">VMware Works=
+tation12=E7=99=BE=E5=BA=A6=E7=BD=91=E7=9B=98--=E4=B8=8B=E8=BD=BD =E6=8F=90=
+=E5=8F=96=E7=A0=81=EF=BC=9A6al3</a></p>
+<ol>
+<li>=E6=89=93=E5=BC=80=E5=AE=89=E8=A3=85=E7=A8=8B=E5=BA=8F</li></ol>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%851.png" title=3D"=E6=89=93=E5=BC=80=E5=AE=89=E8=A3=85=E7=A8=8B=E5=
+=BA=8F"></p>
+<ol>
+<li>=E8=BF=9B=E8=A1=8C=E4=B8=8B=E4=B8=80=E6=AD=A5=E5=BC=80=E5=A7=8B=E5=AE=
+=89=E8=A3=85</li></ol>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%852.png" title=3D"=E8=BF=9B=E8=A1=8C=E4=B8=8B=E4=B8=80=E6=AD=A5=E5=
+=BC=80=E5=A7=8B=E5=AE=89=E8=A3=85"></p>
+<ol>
+<li><p>=E5=90=8C=E6=84=8F=E8=AE=B8=E5=8F=AF=E5=8D=8F=E8=AE=AE</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%853.png" title=3D"=E5=90=8C=E6=84=8F=E8=AE=B8=E5=8F=AF=E5=8D=8F=E8=
+=AE=AE"></p></li>
+<li><p>=E6=A0=B9=E6=8D=AE=E9=9C=80=E8=A6=81=E5=86=B3=E5=AE=9A=E6=98=AF=E5=
+=90=A6=E9=9C=80=E8=A6=81=E6=9B=B4=E6=94=B9=E8=BD=AF=E4=BB=B6=E7=9A=84=E5=AE=
+=89=E8=A3=85=E4=BD=8D=E7=BD=AE</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%854.png" title=3D"=E6=A0=B9=E6=8D=AE=E9=9C=80=E8=A6=81=E5=86=B3=E5=
+=AE=9A=E6=98=AF=E5=90=A6=E9=9C=80=E8=A6=81=E6=9B=B4=E6=94=B9=E8=BD=AF=E4=BB=
+=B6=E7=9A=84=E5=AE=89=E8=A3=85=E4=BD=8D=E7=BD=AE"></p></li></ol>
+<p>=E7=82=B9=E5=87=BB=E4=B8=8B=E4=B8=80=E6=AD=A5=EF=BC=9A</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%855.png" title=3D"=E7=82=B9=E5=87=BB=E4=B8=8B=E4=B8=80=E6=AD=A5=EF=
+=BC=9A"></p>
+<ol>
+<li><p>=E7=94=A8=E6=88=B7=E4=BD=93=E9=AA=8C=E8=AE=BE=E7=BD=AE</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%856.png" title=3D"=E7=94=A8=E6=88=B7=E4=BD=93=E9=AA=8C=E8=AE=BE=E7=
+=BD=AE"></p></li>
+<li><p>=E5=BF=AB=E6=8D=B7=E6=96=B9=E5=BC=8F=E5=88=9B=E5=BB=BA=E7=9A=84=E6=
+=AD=A5=E9=AA=A4</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%857.png" title=3D"=E5=BF=AB=E6=8D=B7=E6=96=B9=E5=BC=8F># Linux=E6=
+=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E7=9A=84=E5=AE=89=E8=A3=85
+=E4=B8=BA=E4=BA=86=E6=A8=A1=E6=8B=9F=E4=BC=81=E4=B8=9A=E4=B8=AD=E7=9A=84=E7=
+=9C=9F=E5=AE=9E=E5=BC=80=E5=8F=91=E7=8E=AF=E5=A2=83=EF=BC=8C=E6=88=91=E4=BB=
+=AC=E5=8F=AF=E4=BB=A5=E4=BD=BF=E7=94=A8=E8=99=9A=E6=8B=9F=E6=9C=BA=E5=AE=89=
+=E8=A3=85Linux=E7=B3=BB=E7=BB=9F=E5=B9=B6=E9=85=8D=E7=BD=AELinux=E6=9C=8D=
+=E5=8A=A1=E5=99=A8=E3=80=82</p></li></ol></li>
+<li><p><strong>=E5=AE=89=E8=A3=85=E7=8E=AF=E5=A2=83</strong></p>
+<p>=E8=99=9A=E6=8B=9F=E6=9C=BA=EF=BC=88Virtual Machine=EF=BC=89=E5=80=BC=E7=
+=9A=84=E6=98=AF=E8=BF=90=E8=A1=8C=E5=9C=A8=E6=9F=90=E4=B8=80=E4=B8=AA=E6=93=
+=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=EF=BC=88=E5=A6=82Windows=EF=BC=89=E4=B9=8B=
+=E4=B8=8A=E6=A8=A1=E6=8B=9F=E5=AE=8C=E6=95=B4=E7=A1=AC=E4=BB=B6=E7=B3=BB=E7=
+=BB=9F=E5=8A=9F=E8=83=BD=E7=9A=84=E8=BD=AF=E4=BB=B6=E3=80=82=E8=BF=9B=E5=85=
+=A5=E8=99=9A=E6=8B=9F=E6=9C=BA=E5=90=8E=EF=BC=8C=E6=89=80=E6=9C=89=E6=93=8D=
+=E4=BD=9C=E9=83=BD=E6=98=AF=E5=9C=A8=E8=BF=99=E4=B8=AA=E5=85=A8=E6=96=B0=E7=
+=9A=84=E3=80=81=E7=8B=AC=E7=AB=8B=E7=9A=84=E8=99=9A=E6=8B=9F=E7=B3=BB=E7=BB=
+=9F=E9=87=8C=E9=9D=A2=E8=BF=9B=E8=A1=8C=EF=BC=8C=E5=8F=AF=E4=BB=A5=E7=8B=AC=
+=E7=AB=8B=E5=AE=89=E8=A3=85=E7=B3=BB=E7=BB=9F=E3=80=81=E8=BF=90=E8=A1=8C=E8=
+=BD=AF=E4=BB=B6=E3=80=81=E4=BF=9D=E5=AD=98=E6=95=B0=E6=8D=AE=E3=80=82</p>
+<p>=E5=B8=B8=E7=94=A8=E7=9A=84=E8=99=9A=E6=8B=9F=E6=9C=BA=E8=BD=AF=E4=BB=B6=
+=E6=9C=89VirtualBox=E3=80=81Vmware workstation=E3=80=81Virtual PC=E7=AD=89=
+=E3=80=82</p>
+<p>=E5=9C=A8=E5=AE=89=E8=A3=85=E8=99=9A=E6=8B=9F=E6=9C=BA=E4=B9=8B=E5=89=8D=
+=EF=BC=8C=E6=88=91=E4=BB=AC=E9=9C=80=E8=A6=81=E7=A1=AE=E8=AE=A4=E6=9C=AC=E6=
+=9C=BAbios=E9=80=89=E5=9E=8B=E4=B8=AD=EF=BC=8CVirtualization=EF=BC=88=E8=99=
+=9A=E6=8B=9F=E5=8C=96=EF=BC=89=E4=B8=BAenable=E7=8A=B6=E6=80=81=E3=80=82</p=
+>
+<p>=E6=B3=A8=E6=84=8F=EF=BC=9A</p>
+<p>Virtualization=E6=98=AFbios=E9=80=89=E9=A1=B9=E4=B8=AD=E7=9A=84=E4=B8=80=
+=E9=A1=B9=EF=BC=8CVirtualization=E5=BC=80=E5=90=AF=E4=BB=A3=E8=A1=A8=E6=9C=
+=AC=E6=9C=BA=E6=94=AF=E6=8C=81=E8=99=9A=E6=8B=9F=E5=8C=96=E6=93=8D=E4=BD=9C=
+=EF=BC=8C=E5=8F=8D=E4=B9=8B=E5=88=99=E4=B8=8D=E6=94=AF=E6=8C=81=E3=80=82bio=
+s=E4=B8=ADVirtualization=E8=AE=BE=E7=BD=AE=E7=9A=84=E8=B7=AF=E5=BE=84=E4=B8=
+=BAbios-->secirity-->Virtualization=E3=80=82</p></li>
+<li><p><strong>CentOS=E5=AE=89=E8=A3=85</strong></p>
+<ul>
+<li>=E4=B8=8B=E8=BD=BD=E5=B9=B6=E5=AE=89=E8=A3=85VMware Workstation 12</li>=
+</ul>
+<p><a href=3D" https:=3D"" pan.baidu.com=3D"" s=3D"" 1frbmnue6lh8ydr36i1npq=
+g"=3D"">VMware Workstation12=E7=99=BE=E5=BA=A6=E7=BD=91=E7=9B=98--=E4=B8=8B=
+=E8=BD=BD =E6=8F=90=E5=8F=96=E7=A0=81=EF=BC=9A6al3</p>
+<ol>
+<li>=E6=89=93=E5=BC=80=E5=AE=89=E8=A3=85=E7=A8=8B=E5=BA=8F</li></ol>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%851.png" title=3D"=E6=89=93=E5=BC=80=E5=AE=89=E8=A3=85=E7=A8=8B=E5=
+=BA=8F"></p>
+<ol>
+<li>=E8=BF=9B=E8=A1=8C=E4=B8=8B=E4=B8=80=E6=AD=A5=E5=BC=80=E5=A7=8B=E5=AE=
+=89=E8=A3=85</li></ol>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%852.png" title=3D"=E8=BF=9B=E8=A1=8C=E4=B8=8B=E4=B8=80=E6=AD=A5=E5=
+=BC=80=E5=A7=8B=E5=AE=89=E8=A3=85"></p>
+<ol>
+<li><p>=E5=90=8C=E6=84=8F=E8=AE=B8=E5=8F=AF=E5=8D=8F=E8=AE=AE</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%853.png" title=3D"=E5=90=8C=E6=84=8F=E8=AE=B8=E5=8F=AF=E5=8D=8F=E8=
+=AE=AE"></p></li>
+<li><p>=E6=A0=B9=E6=8D=AE=E9=9C=80=E8=A6=81=E5=86=B3=E5=AE=9A=E6=98=AF=E5=
+=90=A6=E9=9C=80=E8=A6=81=E6=9B=B4=E6=94=B9=E8=BD=AF=E4=BB=B6=E7=9A=84=E5=AE=
+=89=E8=A3=85=E4=BD=8D=E7=BD=AE</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%854.png" title=3D"=E6=A0=B9=E6=8D=AE=E9=9C=80=E8=A6=81=E5=86=B3=E5=
+=AE=9A=E6=98=AF=E5=90=A6=E9=9C=80=E8=A6=81=E6=9B=B4=E6=94=B9=E8=BD=AF=E4=BB=
+=B6=E7=9A=84=E5=AE=89=E8=A3=85=E4=BD=8D=E7=BD=AE"></p></li></ol>
+<p>=E7=82=B9=E5=87=BB=E4=B8=8B=E4=B8=80=E6=AD=A5=EF=BC=9A</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%855.png" title=3D"=E7=82=B9=E5=87=BB=E4=B8=8B=E4=B8=80=E6=AD=A5=EF=
+=BC=9A"></p>
+<ol>
+<li><p>=E7=94=A8=E6=88=B7=E4=BD=93=E9=AA=8C=E8=AE=BE=E7=BD=AE</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%856.png" title=3D"=E7=94=A8=E6=88=B7=E4=BD=93=E9=AA=8C=E8=AE=BE=E7=
+=BD=AE"></p></li>
+<li><p>=E5=BF=AB=E6=8D=B7=E6=96=B9=E5=BC=8F=E5=88=9B=E5=BB=BA=E7=9A=84=E6=
+=AD=A5=E9=AA=A4</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%857.png" title=3D"=E5=BF=AB=E6=8D=B7=E6=96=B9=E5=BC=8F=E5=88=9B=E5=
+=BB=BA=E7=9A=84=E6=AD=A5=E9=AA=A4"></p></li>
+<li><p>=E7=82=B9=E5=87=BB=E5=AE=89=E8=A3=85=E6=8C=89=E9=92=AE</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%858.png" title=3D"=E7=82=B9=E5=87=BB=E5=AE=89=E8=A3=85=E6=8C=89=E9=
+=92=AE"></p></li>
+<li><p>=E7=82=B9=E5=87=BB=E5=AE=8C=E6=88=90</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%859.png" title=3D"=E7=82=B9=E5=87=BB=E5=AE=8C=E6=88=90"></p></li>
+<li><p>=E6=9C=80=E9=87=8D=E8=A6=81=E7=9A=84=E5=9C=B0=E6=96=B9=EF=BC=8C=E5=
+=9C=A8=E5=AE=89=E8=A3=85=E5=AE=8C=E4=B9=8B=E5=90=8E=E9=9C=80=E8=A6=81=E6=A3=
+=80=E6=9F=A5=EF=BC=8C=E6=A3=80=E6=9F=A5=E8=99=9A=E6=8B=9F=E6=9C=BA=E8=BD=AF=
+=E4=BB=B6=E6=98=AF=E5=90=A6=E6=9C=89=E5=AE=89=E8=A3=852=E4=B8=AA=E8=99=9A=
+=E6=8B=9F=E7=BD=91=E5=8D=A1</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%8510.png" title=3D"=E6=9C=80=E9=87=8D=E8=A6=81=E7=9A=84=E5=9C=B0=E6=
+=96=B9=EF=BC=8C=E5=9C=A8=E5=AE=89=E8=A3=85=E5=AE=8C=E4=B9=8B=E5=90=8E=E9=9C=
+=80=E8=A6=81=E6=A3=80=E6=9F=A5=EF=BC=8C=E6=A3=80=E6=9F=A5=E8=99=9A=E6=8B=9F=
+=E6=9C=BA=E8=BD=AF=E4=BB=B6=E6=98=AF=E5=90=A6=E6=9C=89=E5=AE=89=E8=A3=852=
+=E4=B8=AA=E8=99=9A=E6=8B=9F=E7=BD=91=E5=8D=A1"></p></li></ol>
+<p>=E5=A6=82=E6=9E=9C=E6=B2=A1=E6=9C=89=E8=BF=992=E4=B8=AA=E7=BD=91=E5=8D=
+=A1=E7=9A=84=E8=AF=9D=EF=BC=8C=E5=88=99=E4=BC=9A=E5=BD=B1=E5=93=8D=E5=90=8E=
+=E6=9C=9Fwindows=E7=B3=BB=E7=BB=9F=E4=B8=8E=E8=99=9A=E6=8B=9F=E6=9C=BA=E5=
+=85=B6=E4=B8=AD=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E4=B9=8B=E9=97=B4=E7=9A=
+=84=E7=9B=B8=E4=BA=92=E9=80=9A=E4=BF=A1=EF=BC=88=E6=AF=94=E5=A6=82=E5=85=B1=
+=E4=BA=AB=E7=BD=91=E7=BB=9C=E3=80=81=E6=96=87=E4=BB=B6=E4=BC=A0=E8=BE=93=E7=
+=AD=89=EF=BC=89=E3=80=82</p>
+<ul>
+<li>=E6=96=B0=E5=BB=BACentOS=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=B3=BB=E7=BB=9F</=
+li></ul>
+<ol>
+<li>=E5=9C=A8VMware=E4=B8=AD=E7=9A=84=E8=8F=9C=E5=8D=95=E6=A0=8F=E4=B8=AD=
+=E6=89=BE=E5=88=B0=E2=80=9C=E6=96=87=E4=BB=B6=E2=80=9D=E4=B8=80=E9=A1=B9=EF=
+=BC=8C=E7=82=B9=E5=87=BB=E8=8F=9C=E5=8D=95=E9=A1=B9=E4=B8=AD=E7=9A=84=E2=80=
+=9C=E6=96=B0=E5=BB=BA=E8=99=9A=E6=8B=9F=E6=9C=BA=E2=80=9D=EF=BC=8C=E9=80=89=
+=E6=8B=A9=E8=87=AA=E5=AE=9A=E4=B9=89=EF=BC=88=E9=AB=98=E7=BA=A7=EF=BC=89=E7=
+=B1=BB=E5=9E=8B=E9=85=8D=E7=BD=AE=E3=80=82</li></ol>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%851.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E7=82=B9=E5=87=BB=E4=B8=8B=E4=B8=80=E6=AD=A5=EF=BC=8C=E8=BF=9B=E5=
+=85=A5 =E9=80=89=E6=8B=A9=E6=96=B0=E5=BB=BA=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=
+=B1=BB=E5=9E=8B</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%852.png" width=3D"650px" height=3D"350px"></p>
+<ol>
+<li><p>=E9=80=89=E6=8B=A9=E4=B8=8B=E8=BD=BD=E5=A5=BD=E7=9A=84=E7=B3=BB=E7=
+=BB=9F=E6=98=A0=E5=83=8F=E6=96=87=E4=BB=B6=EF=BC=88ISO=E6=96=87=E4=BB=B6=EF=
+=BC=89<a href=3D"https://pan.baidu.com/s/1FzOA3bYQLkpUwDlDQuycRw">CentOS6.5=
+ =E7=B3=BB=E7=BB=9F=E4=B8=8B=E8=BD=BD=E9=93=BE=E6=8E=A5 =E6=8F=90=E5=8F=96=
+=E7=A0=81=EF=BC=9Ao3o7</a>.</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%853.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E9=80=89=E6=8B=A9=E5=AE=89=E8=A3=85=E4=BD=8D=E7=BD=AE=EF=BC=8C=E5=
+=B9=B6=E5=AF=B9=E8=99=9A=E6=8B=9F=E6=9C=BA=E5=91=BD=E5=90=8D=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%854.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E9=85=8D=E7=BD=AE=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=9A=84=E5=A4=84=E7=
+=90=86=E5=99=A8=E4=B8=AA=E6=95=B0=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%855.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E8=AE=BE=E7=BD=AE=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=9A=84=E5=86=85=E5=
+=AD=98=EF=BC=8C=E6=A0=B9=E6=8D=AE=E8=87=AA=E8=BA=AB=E7=94=B5=E8=84=91=E7=9A=
+=84=E9=85=8D=E7=BD=AE=E8=AE=BE=E7=BD=AE=E3=80=82 </p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%856.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E8=AE=BE=E7=BD=AE=E7=BD=91=E7=BB=9C=E7=B1=BB=E5=9E=8B=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%857.png" width=3D"650px" height=3D"350px"></p></li></ol>
+<pre class=3D"prettyprint linenums prettyprinted" style=3D"font-size: 10px;=
+ line-height: 12px;"><ol class=3D"linenums"><li class=3D"L0"><code style=3D=
+"font-size: 10px;line-height: 12px"><span class=3D"pun">=E6=A1=A5=E6=8E=A5=
+=E6=96=B9=E5=BC=8F=E6=A8=A1=E5=BC=8F=EF=BC=88</span><span class=3D"pln">bri=
+dged</span><span class=3D"pun">=EF=BC=89=E4=B8=8B</span><span class=3D"typ"=
+>VMware</span><span class=3D"pun">=E8=99=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=
+=9A=84=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=EF=BC=8C=E5=92=8C=E5=AE=BF=E4=B8=
+=BB=E6=9C=BA=E5=A4=84=E4=BA=8E=E5=90=8C=E4=B8=80=E4=B8=AA=E5=B1=80=E5=9F=9F=
+=E7=BD=91=E4=B8=AD=EF=BC=8C=E4=BB=96=E5=8F=AF=E4=BB=A5=E8=AE=BF=E9=97=AE=E5=
+=AE=BF=E4=B8=BB=E6=9C=BA=E6=89=80=E5=9C=A8=E7=BD=91=E5=86=85=E4=BB=BB=E4=BD=
+=95=E4=B8=80=E5=8F=B0=E6=9C=BA=E5=99=A8=E3=80=82=E5=AE=BF=E4=B8=BB=E6=9C=BA=
+=E6=89=80=E5=9C=A8=E5=B1=80=E5=9F=9F=E7=BD=91=E5=86=85=E5=85=B6=E4=BB=96=E4=
+=B8=BB=E6=9C=BA=EF=BC=8C=E4=B9=9F=E5=8F=AF=E4=BB=A5=E8=AE=BF=E9=97=AE=E8=99=
+=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=9A=84=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=
+=E3=80=82</span></code></li><li class=3D"L1"><code style=3D"font-size: 10px=
+;line-height: 12px"></code></li><li class=3D"L2"><code style=3D"font-size: =
+10px;line-height: 12px"><span class=3D"pun">=E7=BD=91=E7=BB=9C=E5=9C=B0=E5=
+=9D=80=E8=BD=AC=E6=8D=A2=E6=A8=A1=E5=BC=8F=EF=BC=88</span><span class=3D"pl=
+n">NAT</span><span class=3D"pun">=EF=BC=89=E4=B8=8B</span><span class=3D"ty=
+p">VMware</span><span class=3D"pun">=E8=99=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=
+=9A=84=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E4=B9=8B=E9=97=B4=EF=BC=88=E5=A6=
+=82=E6=9E=9C=E8=99=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=9A=84=E6=93=8D=E4=BD=9C=
+=E7=B3=BB=E7=BB=9F=E6=9C=89=E5=A4=9A=E4=B8=AA=EF=BC=89=E5=A4=84=E4=BA=8E=E5=
+=90=8C=E4=B8=80=E4=B8=AA=E5=B1=80=E5=9F=9F=E7=BD=91=E4=B8=AD=EF=BC=8C=E4=BD=
+=86=E6=98=AF=E8=99=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=9A=84=E6=93=8D=E4=BD=9C=
+=E7=B3=BB=E7=BB=9F=E6=9C=AC=E8=BA=AB=E5=92=8C=E5=AE=BF=E4=B8=BB=E6=9C=BA=E4=
+=B8=8D=E5=9C=A8=E5=90=8C=E4=B8=80=E4=B8=AA=E5=B1=80=E5=9F=9F=E7=BD=91=E4=B8=
+=AD=E3=80=82=E8=99=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=9A=84=E6=93=8D=E4=BD=9C=
+=E7=B3=BB=E7=BB=9F=E6=97=A0=E6=B3=95=E8=AE=BF=E9=97=AE=E5=AE=BF=E4=B8=BB=E6=
+=9C=BA=E6=89=80=E5=9C=A8=E5=B1=80=E5=9F=9F=E7=BD=91=E5=86=85=E9=99=A4=E5=AE=
+=BF=E4=B8=BB=E5=A4=96=E7=9A=84=E5=85=B6=E4=BB=96=E4=B8=BB=E6=9C=BA=E3=80=82=
+=E5=85=B6=E4=BB=96=E4=B8=BB=E6=9C=BA=E4=B9=9F=E4=B8=8D=E8=83=BD=E8=AE=BF=E9=
+=97=AE=E8=99=9A=E6=8B=9F=E4=B8=BB=E6=9C=BA=E3=80=82</span></code></li></ol>=
+</pre>
+<ol>
+<li><p>=E8=AE=BE=E7=BD=AEI/O=E6=8E=A7=E5=88=B6=E5=99=A8=E7=9A=84=E7=B1=BB=
+=E5=9E=8B</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%858.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E8=AE=BE=E7=BD=AE=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=9A=84=E7=A3=81=E7=
+=9B=98=E7=B1=BB=E5=9E=8B</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%859.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E9=80=89=E6=8B=A9=E7=A3=81=E7=9B=98=E4=BD=BF=E7=94=A8=E7=B1=BB=E5=
+=9E=8B</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8510.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E8=AE=BE=E7=BD=AE=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=9A=84=E7=A3=81=E7=
+=9B=98=E5=A4=A7=E5=B0=8F</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8511.png" width=3D"650px" height=3D"350px"></p></li></ol>
+<p>12.=E6=8C=87=E5=AE=9A=E8=99=9A=E6=8B=9F=E7=A3=81=E7=9B=98=E6=96=87=E4=BB=
+=B6 </p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8512.png" width=3D"650px" height=3D"350px"></p>
+<p>13.=E7=82=B9=E5=87=BB=E5=AE=8C=E6=88=90=EF=BC=8C=E8=99=9A=E6=8B=9F=E6=9C=
+=BA=E5=B0=B1=E5=88=9B=E5=BB=BA=E5=AE=8C=E6=AF=95=E4=BA=86=E3=80=82 </p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8513.png" width=3D"650px" height=3D"350px"></p>
+<p>14.=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=B3=BB=E7=BB=9F=E6=A1=8C=E9=9D=A2=E3=80=
+=82 </p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8514.png" width=3D"650px" height=3D"350px"></p>
+<p>15.=E5=9C=A8=E8=8F=9C=E5=8D=95=E6=A0=8F=E4=B8=AD=E6=89=BE=E5=88=B0 =E7=
+=BB=88=E7=AB=AF=EF=BC=88=E5=91=BD=E4=BB=A4=E8=A1=8C=EF=BC=89 </p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8515.png" width=3D"650px" height=3D"350px"></p>
+<ol>
+<li><p>=E8=AE=BE=E7=BD=AEroot=EF=BC=88=E7=B3=BB=E7=BB=9F=E8=B6=85=E7=BA=A7=
+=E7=AE=A1=E7=90=86=E5=91=98=E7=9A=84=E5=AF=86=E7=A0=81=EF=BC=89</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8516.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E7=82=B9=E5=87=BB=E6=A1=8C=E9=9D=A2=E4=B8=8A=E7=9A=84=E5=9B=BE=E6=
+=A0=87=EF=BC=8C=E5=B0=86=E7=B3=BB=E7=BB=9F=E8=A3=85=E5=85=A5=E8=99=9A=E6=8B=
+=9F=E7=A3=81=E7=9B=98=E4=B8=AD=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8517.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E8=BE=93=E5=85=A5root=E7=94=A8=E6=88=B7=E5=AF=86=E7=A0=81=EF=BC=8C=
+=E8=BF=9B=E5=85=A5=E5=AE=89=E8=A3=85=E5=BC=95=E5=AF=BC=E7=95=8C=E9=9D=A2=E5=
+=90=8E=EF=BC=8C=E6=8C=89=E7=85=A7=E8=87=AA=E5=B7=B1=E7=9A=84=E9=9C=80=E6=B1=
+=82=E9=85=8D=E7=BD=AE=E5=8D=B3=E5=8F=AF=E3=80=82CentOS=E7=AD=89=E5=BC=95=E5=
+=AF=BC=E5=85=A8=E9=83=A8=E7=BB=93=E6=9D=9F=E4=BE=BF=E4=BC=9A=E5=AE=89=E8=A3=
+=85=E5=AE=8C=E6=AF=95=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8518.png" width=3D"650px" height=3D"350px"></p></li></ol></li=
+>
+</ol>
+<blockquote>
+  <h1 id=3D"linux-1">Linux=E6=96=87=E4=BB=B6=E7=B3=BB=E7=BB=9F</h1>
+</blockquote>
+<ul>
+<li><p>=E7=9B=AE=E5=BD=95=E5=92=8C=E5=88=86=E5=8C=BA</p>
+<ul>
+<li>=E5=AE=8C=E6=88=90Linux=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E6=8C=89=E5=
+=AE=89=E8=A3=85=EF=BC=8C=E5=B9=B6=E6=88=90=E5=8A=9F=E5=90=AF=E5=8A=A8=E7=B3=
+=BB=E7=BB=9F=E5=90=8E=EF=BC=8C=E4=BD=BF=E7=94=A8=E5=AE=89=E8=A3=85=E6=97=B6=
+=E8=BE=93=E5=85=A5=E7=9A=84=E7=94=A8=E6=88=B7=E5=90=8D=E5=AF=86=E7=A0=81=E8=
+=BF=9B=E8=A1=8C=E7=99=BB=E5=BD=95=E3=80=82=E7=99=BB=E5=BD=95=E6=88=90=E5=8A=
+=9F=E5=90=8E=EF=BC=8C=E7=B3=BB=E7=BB=9F=E5=B0=86=E5=B1=95=E7=A4=BACentOS=E7=
+=9A=84=E6=A1=8C=E9=9D=A2=E3=80=82</li></ul>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+7%B3%BB%E7%BB%9F%E6%A1%8C%E9%9D%A2.png" alt=3D"CentOS=E7=B3=BB=E7=BB=9F=E6=
+=A1=8C=E9=9D=A2"></p>
+<ul>
+<li><p>=E5=8F=8C=E5=87=BB=E2=80=9CComputer=E2=80=9D=E5=9B=BE=E6=A0=87=EF=BC=
+=8C=E6=89=93=E5=BC=80Computer=E7=AA=97=E5=8F=A3=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/Filesyst=
+em%E7%B3%BB%E7%BB%9F%E6%A0%B9%E7%9B%AE%E5%BD%95.png" alt=3D"CentOS=E7=B3=BB=
+=E7=BB=9F=E6=A1=8C=E9=9D=A2"></p></li>
+<li><p>=E5=85=B6=E4=B8=AD=E2=80=9CFilesystem=E2=80=9D=E6=98=AF=E7=B3=BB=E7=
+=BB=9F=E6=96=87=E4=BB=B6=E7=B3=BB=E7=BB=9F=E7=9B=AE=E5=BD=95=E7=BB=93=E6=9E=
+=84=E7=9A=84=E5=BF=AB=E6=8D=B7=E6=96=B9=E5=BC=8F=E3=80=82=E5=8F=8C=E5=87=BB=
+=E8=BF=9B=E5=85=A5=EF=BC=8C=E6=88=91=E4=BB=AC=E5=B0=86=E7=9C=8B=E5=88=B0=E7=
+=B3=BB=E7=BB=9F=E7=9A=84=E4=B8=80=E7=BA=A7=E7=9B=AE=E5=BD=95=E3=80=82</p></=
+li></ul>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/Linux%E4=
+%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95.png" alt=3D"CentOS=E7=B3=BB=E7=BB=9F=E6=
+=A1=8C=E9=9D=A2"></p>
+<ul>
+<li>=E5=9C=A8Linux=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E4=B8=AD=E6=89=80=E6=
+=9C=89=E7=9A=84=E8=AE=BE=E5=A4=87=E5=8C=85=E6=8B=AC=E8=BD=AF=E4=BB=B6=E3=80=
+=81=E7=A1=AC=E4=BB=B6=E3=80=81=E6=96=87=E6=A1=A3=E9=83=BD=E5=B1=9E=E4=BA=8E=
+=E6=96=87=E4=BB=B6=E3=80=82=E5=A6=82=E4=B8=80=E5=9D=97cpu=E3=80=81=E4=B8=80=
+=E4=B8=AA=E5=86=85=E5=AD=98=E6=9D=A1=E6=88=96=E8=80=85=E4=B8=80=E5=9D=97=E7=
+=A3=81=E7=9B=98=E3=80=82=E5=8F=8C=E5=87=BB=E8=BF=9B=E5=85=A5dev=E7=9B=AE=E5=
+=BD=95=EF=BC=8C=E5=8F=AF=E4=BB=A5=E7=9C=8B=E5=88=B0=E6=9C=AC=E6=9C=BA=E4=B8=
+=AD=E7=9A=84=E7=A1=AC=E4=BB=B6=EF=BC=8C=E6=AF=8F=E4=B8=80=E4=B8=AA=E7=A1=AC=
+=E4=BB=B6=E9=83=BD=E8=A2=AB=E5=BD=93=E5=81=9A=E6=96=87=E4=BB=B6=EF=BC=8C=E5=
+=AD=98=E5=9C=A8=E4=BA=8Edev=E7=9B=AE=E5=BD=95=E4=B8=8B=E3=80=82</li></ul>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/Linux%E7=
+%A1%AC%E4%BB%B6%E6%96%87%E4%BB%B6%E5%88%97%E8%A1%A8.png" alt=3D"CentOS=E7=
+=B3=BB=E7=BB=9F=E6=A1=8C=E9=9D=A2"></p></li>
+<li><p>=E5=B8=B8=E7=94=A8=E7=9B=AE=E5=BD=95=E4=BB=8B=E7=BB=8D</p>
+<ul>
+<li><p>/var =E5=8C=85=E5=90=AB=E5=9C=A8=E6=AD=A3=E5=B8=B8=E6=93=8D=E4=BD=9C=
+=E4=B8=AD=E8=A2=AB=E6=94=B9=E5=8F=98=E7=9A=84=E6=96=87=E4=BB=B6=EF=BC=9A=E5=
+=81=87=E8=84=B1=E6=9C=BA=E6=96=87=E4=BB=B6=E3=80=81=E8=AE=B0=E5=BD=95=E6=96=
+=87=E4=BB=B6=E3=80=81=E5=8A=A0=E9=94=81=E6=96=87=E4=BB=B6=E3=80=81=E4=B8=B4=
+=E6=97=B6=E6=96=87=E4=BB=B6=E5=92=8C=E9=A1=B5=E6=A0=BC=E5=BC=8F=E5=8C=96=E6=
+=96=87=E4=BB=B6=E7=AD=89=E3=80=82</p></li>
+<li><p>/home =E5=8C=85=E5=90=AB=E7=94=A8=E6=88=B7=E7=9A=84=E6=96=87=E4=BB=
+=B6=EF=BC=9A=E5=8F=82=E6=95=B0=E8=AE=BE=E7=BD=AE=E6=96=87=E4=BB=B6=E3=80=81=
+=E4=B8=AA=E6=80=A7=E5=8C=96=E6=96=87=E4=BB=B6=E3=80=81=E6=96=87=E6=A1=A3=E3=
+=80=81=E6=95=B0=E6=8D=AE=E3=80=81EMAIL=E3=80=81=E7=BC=93=E5=AD=98=E6=95=B0=
+=E6=8D=AE=E7=AD=89=EF=BC=8C=E7=B3=BB=E7=BB=9F=E6=AF=8F=E5=A2=9E=E5=8A=A0=E4=
+=B8=80=E4=B8=AA=E7=94=A8=E6=88=B7=EF=BC=8C=E7=B3=BB=E7=BB=9F=E5=B0=B1=E4=BC=
+=9A=E6=A0=B9=E6=8D=AE=E5=85=B6=E7=94=A8=E6=88=B7=E5=90=8D=E5=9C=A8home=E7=
+=9B=AE=E5=BD=95=E4=B8=8B=E6=96=B0=E5=BB=BA=E5=92=8C=E5=85=B6=E7=94=A8=E6=88=
+=B7=E5=90=8D=E5=90=8C=E5=90=8D=E7=9A=84=E6=96=87=E4=BB=B6=E5=A4=B9=EF=BC=8C=
+=E7=94=A8=E4=BA=8E=E4=BF=9D=E5=AD=98=E5=85=B6=E7=94=A8=E6=88=B7=E9=85=8D=E7=
+=BD=AE=E3=80=82</p></li>
+<li><p>/proc =E5=8C=85=E5=90=AB=E8=99=9A=E5=B9=BB=E7=9A=84=E6=96=87=E4=BB=
+=B6=EF=BC=9A=E4=BB=96=E4=BB=AC=E5=AE=9E=E9=99=85=E4=B8=8A=E5=B9=B6=E4=B8=8D=
+=E5=AD=98=E5=9C=A8=E4=B8=8E=E7=A3=81=E7=9B=98=E4=B8=8A=EF=BC=8C=E4=B9=9F=E4=
+=B8=8D=E5=8D=A0=E7=94=A8=E4=BB=BB=E4=BD=95=E7=A9=BA=E9=97=B4=E3=80=82=EF=BC=
+=88=E7=94=A8ls -l=E5=8F=AF=E4=BB=A5=E6=98=BE=E7=A4=BA=E5=AE=83=E4=BB=AC=E7=
+=9A=84=E5=A4=A7=E5=B0=8F=EF=BC=89=E5=BD=93=E6=9F=A5=E7=9C=8B=E8=BF=99=E4=B8=
+=8B=E6=96=87=E4=BB=B6=E6=97=B6=EF=BC=8C=E5=AE=9E=E9=99=85=E4=B8=8A=E6=98=AF=
+=E5=9C=A8=E8=AE=BF=E9=97=AE=E5=AD=98=E5=9C=A8=E5=86=85=E5=AD=98=E4=B8=AD=E7=
+=9A=84=E4=BF=A1=E6=81=AF=EF=BC=8C=E8=BF=99=E4=BA=9B=E4=BF=A1=E6=81=AF=E7=94=
+=A8=E4=BA=8E=E8=AE=BF=E9=97=AE=E7=B3=BB=E7=BB=9F=E3=80=82</p></li>
+<li><p>/bin =E5=8C=85=E5=90=AB=E7=B3=BB=E7=BB=9F=E5=90=AF=E5=8A=A8=E6=97=B6=
+=E9=9C=80=E8=A6=81=E7=9A=84=E6=89=A7=E8=A1=8C=E6=96=87=E4=BB=B6=EF=BC=88=E4=
+=BA=8C=E8=BF=9B=E5=88=B6=EF=BC=89=EF=BC=8C=E8=BF=99=E4=BA=9B=E6=96=87=E4=BB=
+=B6=E5=8F=AF=E4=BB=A5=E8=A2=AB=E6=99=AE=E9=80=9A=E7=94=A8=E6=88=B7=E4=BD=BF=
+=E7=94=A8=E3=80=82</p></li>
+<li><p>/dev =E4=B8=BA=E8=AE=BE=E5=A4=87=E6=96=87=E4=BB=B6=E7=9B=AE=E5=BD=95=
+=E3=80=82Linux=E4=B8=8B=E8=AE=BE=E5=A4=87=E8=A2=AB=E5=BD=93=E6=88=90=E6=96=
+=87=E4=BB=B6=EF=BC=8C=E8=BF=99=E6=A0=B7=E4=B8=80=E6=9D=A5=E7=A1=AC=E4=BB=B6=
+=E8=A2=AB=E6=8A=BD=E8=B1=A1=E5=8C=96=EF=BC=8C=E4=BE=BF=E4=BA=8E=E8=AF=BB=E5=
+=86=99=E3=80=81=E7=BD=91=E7=BB=9C=E5=85=B1=E4=BA=AB=E4=BB=A5=E5=8F=8A=E9=9C=
+=80=E8=A6=81=E4=B8=B4=E6=97=B6=E8=A3=85=E8=BD=BD=E5=88=B0=E6=96=87=E4=BB=B6=
+=E7=B3=BB=E7=BB=9F=E4=B8=AD=E3=80=82=E6=AD=A3=E5=B8=B8=E6=83=85=E5=86=B5=E4=
+=B8=8B=EF=BC=8C=E8=AE=BE=E5=A4=87=E4=BC=9A=E6=9C=89=E4=B8=80=E4=B8=AA=E7=8B=
+=AC=E7=AB=8B=E7=9A=84=E5=AD=90=E7=9B=AE=E5=BD=95=E3=80=82=E8=BF=99=E4=BA=9B=
+=E8=AE=BE=E5=A4=87=E7=9A=84=E5=86=85=E5=AE=B9=E4=BC=9A=E5=87=BA=E7=8E=B0=E5=
+=9C=A8=E7=8B=AC=E7=AB=8B=E7=9A=84=E5=AD=90=E7=9B=AE=E5=BD=95=E4=B8=8B=E3=80=
+=82=E5=88=9B=E5=BB=BA=E7=9A=84=E6=AD=A5=E9=AA=A4"/&gt;</p></li></ul>
+<ol>
+<li><p>=E7=82=B9=E5=87=BB=E5=AE=89=E8=A3=85=E6=8C=89=E9=92=AE</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%858.png" title=3D"=E7=82=B9=E5=87=BB=E5=AE=89=E8=A3=85=E6=8C=89=E9=
+=92=AE"></p></li>
+<li><p>=E7=82=B9=E5=87=BB=E5=AE=8C=E6=88=90</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%859.png" title=3D"=E7=82=B9=E5=87=BB=E5=AE=8C=E6=88=90"></p></li>
+<li><p>=E6=9C=80=E9=87=8D=E8=A6=81=E7=9A=84=E5=9C=B0=E6=96=B9=EF=BC=8C=E5=
+=9C=A8=E5=AE=89=E8=A3=85=E5=AE=8C=E4=B9=8B=E5=90=8E=E9=9C=80=E8=A6=81=E6=A3=
+=80=E6=9F=A5=EF=BC=8C=E6=A3=80=E6=9F=A5=E8=99=9A=E6=8B=9F=E6=9C=BA=E8=BD=AF=
+=E4=BB=B6=E6=98=AF=E5=90=A6=E6=9C=89=E5=AE=89=E8=A3=852=E4=B8=AA=E8=99=9A=
+=E6=8B=9F=E7=BD=91=E5=8D=A1</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/%E5%AE%8=
+9%E8%A3%8510.png" title=3D"=E6=9C=80=E9=87=8D=E8=A6=81=E7=9A=84=E5=9C=B0=E6=
+=96=B9=EF=BC=8C=E5=9C=A8=E5=AE=89=E8=A3=85=E5=AE=8C=E4=B9=8B=E5=90=8E=E9=9C=
+=80=E8=A6=81=E6=A3=80=E6=9F=A5=EF=BC=8C=E6=A3=80=E6=9F=A5=E8=99=9A=E6=8B=9F=
+=E6=9C=BA=E8=BD=AF=E4=BB=B6=E6=98=AF=E5=90=A6=E6=9C=89=E5=AE=89=E8=A3=852=
+=E4=B8=AA=E8=99=9A=E6=8B=9F=E7=BD=91=E5=8D=A1"></p></li></ol>
+<p>=E5=A6=82=E6=9E=9C=E6=B2=A1=E6=9C=89=E8=BF=992=E4=B8=AA=E7=BD=91=E5=8D=
+=A1=E7=9A=84=E8=AF=9D=EF=BC=8C=E5=88=99=E4=BC=9A=E5=BD=B1=E5=93=8D=E5=90=8E=
+=E6=9C=9Fwindows=E7=B3=BB=E7=BB=9F=E4=B8=8E=E8=99=9A=E6=8B=9F=E6=9C=BA=E5=
+=85=B6=E4=B8=AD=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E4=B9=8B=E9=97=B4=E7=9A=
+=84=E7=9B=B8=E4=BA=92=E9=80=9A=E4=BF=A1=EF=BC=88=E6=AF=94=E5=A6=82=E5=85=B1=
+=E4=BA=AB=E7=BD=91=E7=BB=9C=E3=80=81=E6=96=87=E4=BB=B6=E4=BC=A0=E8=BE=93=E7=
+=AD=89=EF=BC=89=E3=80=82</p>
+<ul>
+<li>=E6=96=B0=E5=BB=BACentOS=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=B3=BB=E7=BB=9F</=
+li></ul>
+<ol>
+<li>=E5=9C=A8VMware=E4=B8=AD=E7=9A=84=E8=8F=9C=E5=8D=95=E6=A0=8F=E4=B8=AD=
+=E6=89=BE=E5=88=B0=E2=80=9C=E6=96=87=E4=BB=B6=E2=80=9D=E4=B8=80=E9=A1=B9=EF=
+=BC=8C=E7=82=B9=E5=87=BB=E8=8F=9C=E5=8D=95=E9=A1=B9=E4=B8=AD=E7=9A=84=E2=80=
+=9C=E6=96=B0=E5=BB=BA=E8=99=9A=E6=8B=9F=E6=9C=BA=E2=80=9D=EF=BC=8C=E9=80=89=
+=E6=8B=A9=E8=87=AA=E5=AE=9A=E4=B9=89=EF=BC=88=E9=AB=98=E7=BA=A7=EF=BC=89=E7=
+=B1=BB=E5=9E=8B=E9=85=8D=E7=BD=AE=E3=80=82</li></ol>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%851.png" width=3D"650px" height=3D"350px"></p></li>
+</ul>
+<ol>
+<li><p>=E7=82=B9=E5=87=BB=E4=B8=8B=E4=B8=80=E6=AD=A5=EF=BC=8C=E8=BF=9B=E5=
+=85=A5 =E9=80=89=E6=8B=A9=E6=96=B0=E5=BB=BA=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=
+=B1=BB=E5=9E=8B</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%852.png" width=3D"650px" height=3D"350px"></p>
+<ol>
+<li><p>=E9=80=89=E6=8B=A9=E4=B8=8B=E8=BD=BD=E5=A5=BD=E7=9A=84=E7=B3=BB=E7=
+=BB=9F=E6=98=A0=E5=83=8F=E6=96=87=E4=BB=B6=EF=BC=88ISO=E6=96=87=E4=BB=B6=EF=
+=BC=89<a href=3D"https://pan.baidu.com/s/1FzOA3bYQLkpUwDlDQuycRw">CentOS6.5=
+ =E7=B3=BB=E7=BB=9F=E4=B8=8B=E8=BD=BD=E9=93=BE=E6=8E=A5 =E6=8F=90=E5=8F=96=
+=E7=A0=81=EF=BC=9Ao3o7</a>.</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%853.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E9=80=89=E6=8B=A9=E5=AE=89=E8=A3=85=E4=BD=8D=E7=BD=AE=EF=BC=8C=E5=
+=B9=B6=E5=AF=B9=E8=99=9A=E6=8B=9F=E6=9C=BA=E5=91=BD=E5=90=8D=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%854.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E9=85=8D=E7=BD=AE=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=9A=84=E5=A4=84=E7=
+=90=86=E5=99=A8=E4=B8=AA=E6=95=B0=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%855.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E8=AE=BE=E7=BD=AE=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=9A=84=E5=86=85=E5=
+=AD=98=EF=BC=8C=E6=A0=B9=E6=8D=AE=E8=87=AA=E8=BA=AB=E7=94=B5=E8=84=91=E7=9A=
+=84=E9=85=8D=E7=BD=AE=E8=AE=BE=E7=BD=AE=E3=80=82 </p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%856.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E8=AE=BE=E7=BD=AE=E7=BD=91=E7=BB=9C=E7=B1=BB=E5=9E=8B=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%857.png" width=3D"650px" height=3D"350px"></p></li></ol>
+<pre class=3D"prettyprint linenums prettyprinted" style=3D"font-size: 10px;=
+ line-height: 12px;"><ol class=3D"linenums"><li class=3D"L0"><code style=3D=
+"font-size: 10px;line-height: 12px"><span class=3D"pun">=E6=A1=A5=E6=8E=A5=
+=E6=96=B9=E5=BC=8F=E6=A8=A1=E5=BC=8F=EF=BC=88</span><span class=3D"pln">bri=
+dged</span><span class=3D"pun">=EF=BC=89=E4=B8=8B</span><span class=3D"typ"=
+>VMware</span><span class=3D"pun">=E8=99=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=
+=9A=84=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=EF=BC=8C=E5=92=8C=E5=AE=BF=E4=B8=
+=BB=E6=9C=BA=E5=A4=84=E4=BA=8E=E5=90=8C=E4=B8=80=E4=B8=AA=E5=B1=80=E5=9F=9F=
+=E7=BD=91=E4=B8=AD=EF=BC=8C=E4=BB=96=E5=8F=AF=E4=BB=A5=E8=AE=BF=E9=97=AE=E5=
+=AE=BF=E4=B8=BB=E6=9C=BA=E6=89=80=E5=9C=A8=E7=BD=91=E5=86=85=E4=BB=BB=E4=BD=
+=95=E4=B8=80=E5=8F=B0=E6=9C=BA=E5=99=A8=E3=80=82=E5=AE=BF=E4=B8=BB=E6=9C=BA=
+=E6=89=80=E5=9C=A8=E5=B1=80=E5=9F=9F=E7=BD=91=E5=86=85=E5=85=B6=E4=BB=96=E4=
+=B8=BB=E6=9C=BA=EF=BC=8C=E4=B9=9F=E5=8F=AF=E4=BB=A5=E8=AE=BF=E9=97=AE=E8=99=
+=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=9A=84=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=
+=E3=80=82</span></code></li><li class=3D"L1"><code style=3D"font-size: 10px=
+;line-height: 12px"></code></li><li class=3D"L2"><code style=3D"font-size: =
+10px;line-height: 12px"><span class=3D"pun">=E7=BD=91=E7=BB=9C=E5=9C=B0=E5=
+=9D=80=E8=BD=AC=E6=8D=A2=E6=A8=A1=E5=BC=8F=EF=BC=88</span><span class=3D"pl=
+n">NAT</span><span class=3D"pun">=EF=BC=89=E4=B8=8B</span><span class=3D"ty=
+p">VMware</span><span class=3D"pun">=E8=99=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=
+=9A=84=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E4=B9=8B=E9=97=B4=EF=BC=88=E5=A6=
+=82=E6=9E=9C=E8=99=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=9A=84=E6=93=8D=E4=BD=9C=
+=E7=B3=BB=E7=BB=9F=E6=9C=89=E5=A4=9A=E4=B8=AA=EF=BC=89=E5=A4=84=E4=BA=8E=E5=
+=90=8C=E4=B8=80=E4=B8=AA=E5=B1=80=E5=9F=9F=E7=BD=91=E4=B8=AD=EF=BC=8C=E4=BD=
+=86=E6=98=AF=E8=99=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=9A=84=E6=93=8D=E4=BD=9C=
+=E7=B3=BB=E7=BB=9F=E6=9C=AC=E8=BA=AB=E5=92=8C=E5=AE=BF=E4=B8=BB=E6=9C=BA=E4=
+=B8=8D=E5=9C=A8=E5=90=8C=E4=B8=80=E4=B8=AA=E5=B1=80=E5=9F=9F=E7=BD=91=E4=B8=
+=AD=E3=80=82=E8=99=9A=E6=8B=9F=E5=87=BA=E6=9D=A5=E7=9A=84=E6=93=8D=E4=BD=9C=
+=E7=B3=BB=E7=BB=9F=E6=97=A0=E6=B3=95=E8=AE=BF=E9=97=AE=E5=AE=BF=E4=B8=BB=E6=
+=9C=BA=E6=89=80=E5=9C=A8=E5=B1=80=E5=9F=9F=E7=BD=91=E5=86=85=E9=99=A4=E5=AE=
+=BF=E4=B8=BB=E5=A4=96=E7=9A=84=E5=85=B6=E4=BB=96=E4=B8=BB=E6=9C=BA=E3=80=82=
+=E5=85=B6=E4=BB=96=E4=B8=BB=E6=9C=BA=E4=B9=9F=E4=B8=8D=E8=83=BD=E8=AE=BF=E9=
+=97=AE=E8=99=9A=E6=8B=9F=E4=B8=BB=E6=9C=BA=E3=80=82</span></code></li></ol>=
+</pre>
+<ol>
+<li><p>=E8=AE=BE=E7=BD=AEI/O=E6=8E=A7=E5=88=B6=E5=99=A8=E7=9A=84=E7=B1=BB=
+=E5=9E=8B</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%858.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E8=AE=BE=E7=BD=AE=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=9A=84=E7=A3=81=E7=
+=9B=98=E7=B1=BB=E5=9E=8B</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%859.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E9=80=89=E6=8B=A9=E7=A3=81=E7=9B=98=E4=BD=BF=E7=94=A8=E7=B1=BB=E5=
+=9E=8B</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8510.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E8=AE=BE=E7=BD=AE=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=9A=84=E7=A3=81=E7=
+=9B=98=E5=A4=A7=E5=B0=8F</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8511.png" width=3D"650px" height=3D"350px"></p></li></ol>
+<p>12.=E6=8C=87=E5=AE=9A=E8=99=9A=E6=8B=9F=E7=A3=81=E7=9B=98=E6=96=87=E4=BB=
+=B6 </p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8512.png" width=3D"650px" height=3D"350px"></p>
+<p>13.=E7=82=B9=E5=87=BB=E5=AE=8C=E6=88=90=EF=BC=8C=E8=99=9A=E6=8B=9F=E6=9C=
+=BA=E5=B0=B1=E5=88=9B=E5=BB=BA=E5=AE=8C=E6=AF=95=E4=BA=86=E3=80=82 </p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8513.png" width=3D"650px" height=3D"350px"></p>
+<p>14.=E8=99=9A=E6=8B=9F=E6=9C=BA=E7=B3=BB=E7=BB=9F=E6=A1=8C=E9=9D=A2=E3=80=
+=82 </p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8514.png" width=3D"650px" height=3D"350px"></p>
+<p>15.=E5=9C=A8=E8=8F=9C=E5=8D=95=E6=A0=8F=E4=B8=AD=E6=89=BE=E5=88=B0 =E7=
+=BB=88=E7=AB=AF=EF=BC=88=E5=91=BD=E4=BB=A4=E8=A1=8C=EF=BC=89 </p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8515.png" width=3D"650px" height=3D"350px"></p>
+<ol>
+<li><p>=E8=AE=BE=E7=BD=AEroot=EF=BC=88=E7=B3=BB=E7=BB=9F=E8=B6=85=E7=BA=A7=
+=E7=AE=A1=E7=90=86=E5=91=98=E7=9A=84=E5=AF=86=E7=A0=81=EF=BC=89</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8516.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E7=82=B9=E5=87=BB=E6=A1=8C=E9=9D=A2=E4=B8=8A=E7=9A=84=E5=9B=BE=E6=
+=A0=87=EF=BC=8C=E5=B0=86=E7=B3=BB=E7=BB=9F=E8=A3=85=E5=85=A5=E8=99=9A=E6=8B=
+=9F=E7=A3=81=E7=9B=98=E4=B8=AD=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8517.png" width=3D"650px" height=3D"350px"></p></li>
+<li><p>=E8=BE=93=E5=85=A5root=E7=94=A8=E6=88=B7=E5=AF=86=E7=A0=81=EF=BC=8C=
+=E8=BF=9B=E5=85=A5=E5=AE=89=E8=A3=85=E5=BC=95=E5=AF=BC=E7=95=8C=E9=9D=A2=E5=
+=90=8E=EF=BC=8C=E6=8C=89=E7=85=A7=E8=87=AA=E5=B7=B1=E7=9A=84=E9=9C=80=E6=B1=
+=82=E9=85=8D=E7=BD=AE=E5=8D=B3=E5=8F=AF=E3=80=82CentOS=E7=AD=89=E5=BC=95=E5=
+=AF=BC=E5=85=A8=E9=83=A8=E7=BB=93=E6=9D=9F=E4=BE=BF=E4=BC=9A=E5=AE=89=E8=A3=
+=85=E5=AE=8C=E6=AF=95=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+5%AE%89%E8%A3%8518.png" width=3D"650px" height=3D"350px"></p></li></ol></li=
+>
+</ol>
+<blockquote>
+  <h1 id=3D"linux-2">Linux=E6=96=87=E4=BB=B6=E7=B3=BB=E7=BB=9F</h1>
+</blockquote>
+<ul>
+<li><p>=E7=9B=AE=E5=BD=95=E5=92=8C=E5=88=86=E5=8C=BA</p>
+<ul>
+<li>=E5=AE=8C=E6=88=90Linux=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E6=8C=89=E5=
+=AE=89=E8=A3=85=EF=BC=8C=E5=B9=B6=E6=88=90=E5=8A=9F=E5=90=AF=E5=8A=A8=E7=B3=
+=BB=E7=BB=9F=E5=90=8E=EF=BC=8C=E4=BD=BF=E7=94=A8=E5=AE=89=E8=A3=85=E6=97=B6=
+=E8=BE=93=E5=85=A5=E7=9A=84=E7=94=A8=E6=88=B7=E5=90=8D=E5=AF=86=E7=A0=81=E8=
+=BF=9B=E8=A1=8C=E7=99=BB=E5=BD=95=E3=80=82=E7=99=BB=E5=BD=95=E6=88=90=E5=8A=
+=9F=E5=90=8E=EF=BC=8C=E7=B3=BB=E7=BB=9F=E5=B0=86=E5=B1=95=E7=A4=BACentOS=E7=
+=9A=84=E6=A1=8C=E9=9D=A2=E3=80=82</li></ul>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/CentOS%E=
+7%B3%BB%E7%BB%9F%E6%A1%8C%E9%9D%A2.png" alt=3D"CentOS=E7=B3=BB=E7=BB=9F=E6=
+=A1=8C=E9=9D=A2"></p>
+<ul>
+<li><p>=E5=8F=8C=E5=87=BB=E2=80=9CComputer=E2=80=9D=E5=9B=BE=E6=A0=87=EF=BC=
+=8C=E6=89=93=E5=BC=80Computer=E7=AA=97=E5=8F=A3=E3=80=82</p>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/Filesyst=
+em%E7%B3%BB%E7%BB%9F%E6%A0%B9%E7%9B%AE%E5%BD%95.png" alt=3D"CentOS=E7=B3=BB=
+=E7=BB=9F=E6=A1=8C=E9=9D=A2"></p></li>
+<li><p>=E5=85=B6=E4=B8=AD=E2=80=9CFilesystem=E2=80=9D=E6=98=AF=E7=B3=BB=E7=
+=BB=9F=E6=96=87=E4=BB=B6=E7=B3=BB=E7=BB=9F=E7=9B=AE=E5=BD=95=E7=BB=93=E6=9E=
+=84=E7=9A=84=E5=BF=AB=E6=8D=B7=E6=96=B9=E5=BC=8F=E3=80=82=E5=8F=8C=E5=87=BB=
+=E8=BF=9B=E5=85=A5=EF=BC=8C=E6=88=91=E4=BB=AC=E5=B0=86=E7=9C=8B=E5=88=B0=E7=
+=B3=BB=E7=BB=9F=E7=9A=84=E4=B8=80=E7=BA=A7=E7=9B=AE=E5=BD=95=E3=80=82</p></=
+li></ul>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/Linux%E4=
+%B8%80%E7%BA%A7%E7%9B%AE%E5%BD%95.png" alt=3D"CentOS=E7=B3=BB=E7=BB=9F=E6=
+=A1=8C=E9=9D=A2"></p>
+<ul>
+<li>=E5=9C=A8Linux=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=BB=9F=E4=B8=AD=E6=89=80=E6=
+=9C=89=E7=9A=84=E8=AE=BE=E5=A4=87=E5=8C=85=E6=8B=AC=E8=BD=AF=E4=BB=B6=E3=80=
+=81=E7=A1=AC=E4=BB=B6=E3=80=81=E6=96=87=E6=A1=A3=E9=83=BD=E5=B1=9E=E4=BA=8E=
+=E6=96=87=E4=BB=B6=E3=80=82=E5=A6=82=E4=B8=80=E5=9D=97cpu=E3=80=81=E4=B8=80=
+=E4=B8=AA=E5=86=85=E5=AD=98=E6=9D=A1=E6=88=96=E8=80=85=E4=B8=80=E5=9D=97=E7=
+=A3=81=E7=9B=98=E3=80=82=E5=8F=8C=E5=87=BB=E8=BF=9B=E5=85=A5dev=E7=9B=AE=E5=
+=BD=95=EF=BC=8C=E5=8F=AF=E4=BB=A5=E7=9C=8B=E5=88=B0=E6=9C=AC=E6=9C=BA=E4=B8=
+=AD=E7=9A=84=E7=A1=AC=E4=BB=B6=EF=BC=8C=E6=AF=8F=E4=B8=80=E4=B8=AA=E7=A1=AC=
+=E4=BB=B6=E9=83=BD=E8=A2=AB=E5=BD=93=E5=81=9A=E6=96=87=E4=BB=B6=EF=BC=8C=E5=
+=AD=98=E5=9C=A8=E4=BA=8Edev=E7=9B=AE=E5=BD=95=E4=B8=8B=E3=80=82</li></ul>
+<p><img src=3D"http://blog.didispace.com/tools/online-markdown/img/Linux%E7=
+%A1%AC%E4%BB%B6%E6%96%87%E4%BB%B6%E5%88%97%E8%A1%A8.png" alt=3D"CentOS=E7=
+=B3=BB=E7=BB=9F=E6=A1=8C=E9=9D=A2"></p></li>
+<li><p>=E5=B8=B8=E7=94=A8=E7=9B=AE=E5=BD=95=E4=BB=8B=E7=BB=8D</p>
+<ul>
+<li><p>/var =E5=8C=85=E5=90=AB=E5=9C=A8=E6=AD=A3=E5=B8=B8=E6=93=8D=E4=BD=9C=
+=E4=B8=AD=E8=A2=AB=E6=94=B9=E5=8F=98=E7=9A=84=E6=96=87=E4=BB=B6=EF=BC=9A=E5=
+=81=87=E8=84=B1=E6=9C=BA=E6=96=87=E4=BB=B6=E3=80=81=E8=AE=B0=E5=BD=95=E6=96=
+=87=E4=BB=B6=E3=80=81=E5=8A=A0=E9=94=81=E6=96=87=E4=BB=B6=E3=80=81=E4=B8=B4=
+=E6=97=B6=E6=96=87=E4=BB=B6=E5=92=8C=E9=A1=B5=E6=A0=BC=E5=BC=8F=E5=8C=96=E6=
+=96=87=E4=BB=B6=E7=AD=89=E3=80=82</p></li>
+<li><p>/home =E5=8C=85=E5=90=AB=E7=94=A8=E6=88=B7=E7=9A=84=E6=96=87=E4=BB=
+=B6=EF=BC=9A=E5=8F=82=E6=95=B0=E8=AE=BE=E7=BD=AE=E6=96=87=E4=BB=B6=E3=80=81=
+=E4=B8=AA=E6=80=A7=E5=8C=96=E6=96=87=E4=BB=B6=E3=80=81=E6=96=87=E6=A1=A3=E3=
+=80=81=E6=95=B0=E6=8D=AE=E3=80=81EMAIL=E3=80=81=E7=BC=93=E5=AD=98=E6=95=B0=
+=E6=8D=AE=E7=AD=89=EF=BC=8C=E7=B3=BB=E7=BB=9F=E6=AF=8F=E5=A2=9E=E5=8A=A0=E4=
+=B8=80=E4=B8=AA=E7=94=A8=E6=88=B7=EF=BC=8C=E7=B3=BB=E7=BB=9F=E5=B0=B1=E4=BC=
+=9A=E6=A0=B9=E6=8D=AE=E5=85=B6=E7=94=A8=E6=88=B7=E5=90=8D=E5=9C=A8home=E7=
+=9B=AE=E5=BD=95=E4=B8=8B=E6=96=B0=E5=BB=BA=E5=92=8C=E5=85=B6=E7=94=A8=E6=88=
+=B7=E5=90=8D=E5=90=8C=E5=90=8D=E7=9A=84=E6=96=87=E4=BB=B6=E5=A4=B9=EF=BC=8C=
+=E7=94=A8=E4=BA=8E=E4=BF=9D=E5=AD=98=E5=85=B6=E7=94=A8=E6=88=B7=E9=85=8D=E7=
+=BD=AE=E3=80=82</p></li>
+<li><p>/proc =E5=8C=85=E5=90=AB=E8=99=9A=E5=B9=BB=E7=9A=84=E6=96=87=E4=BB=
+=B6=EF=BC=9A=E4=BB=96=E4=BB=AC=E5=AE=9E=E9=99=85=E4=B8=8A=E5=B9=B6=E4=B8=8D=
+=E5=AD=98=E5=9C=A8=E4=B8=8E=E7=A3=81=E7=9B=98=E4=B8=8A=EF=BC=8C=E4=B9=9F=E4=
+=B8=8D=E5=8D=A0=E7=94=A8=E4=BB=BB=E4=BD=95=E7=A9=BA=E9=97=B4=E3=80=82=EF=BC=
+=88=E7=94=A8ls -l=E5=8F=AF=E4=BB=A5=E6=98=BE=E7=A4=BA=E5=AE=83=E4=BB=AC=E7=
+=9A=84=E5=A4=A7=E5=B0=8F=EF=BC=89=E5=BD=93=E6=9F=A5=E7=9C=8B=E8=BF=99=E4=B8=
+=8B=E6=96=87=E4=BB=B6=E6=97=B6=EF=BC=8C=E5=AE=9E=E9=99=85=E4=B8=8A=E6=98=AF=
+=E5=9C=A8=E8=AE=BF=E9=97=AE=E5=AD=98=E5=9C=A8=E5=86=85=E5=AD=98=E4=B8=AD=E7=
+=9A=84=E4=BF=A1=E6=81=AF=EF=BC=8C=E8=BF=99=E4=BA=9B=E4=BF=A1=E6=81=AF=E7=94=
+=A8=E4=BA=8E=E8=AE=BF=E9=97=AE=E7=B3=BB=E7=BB=9F=E3=80=82</p></li>
+<li><p>/bin =E5=8C=85=E5=90=AB=E7=B3=BB=E7=BB=9F=E5=90=AF=E5=8A=A8=E6=97=B6=
+=E9=9C=80=E8=A6=81=E7=9A=84=E6=89=A7=E8=A1=8C=E6=96=87=E4=BB=B6=EF=BC=88=E4=
+=BA=8C=E8=BF=9B=E5=88=B6=EF=BC=89=EF=BC=8C=E8=BF=99=E4=BA=9B=E6=96=87=E4=BB=
+=B6=E5=8F=AF=E4=BB=A5=E8=A2=AB=E6=99=AE=E9=80=9A=E7=94=A8=E6=88=B7=E4=BD=BF=
+=E7=94=A8=E3=80=82</p></li>
+<li><p>/dev =E4=B8=BA=E8=AE=BE=E5=A4=87=E6=96=87=E4=BB=B6=E7=9B=AE=E5=BD=95=
+=E3=80=82Linux=E4=B8=8B=E8=AE=BE=E5=A4=87=E8=A2=AB=E5=BD=93=E6=88=90=E6=96=
+=87=E4=BB=B6=EF=BC=8C=E8=BF=99=E6=A0=B7=E4=B8=80=E6=9D=A5=E7=A1=AC=E4=BB=B6=
+=E8=A2=AB=E6=8A=BD=E8=B1=A1=E5=8C=96=EF=BC=8C=E4=BE=BF=E4=BA=8E=E8=AF=BB=E5=
+=86=99=E3=80=81=E7=BD=91=E7=BB=9C=E5=85=B1=E4=BA=AB=E4=BB=A5=E5=8F=8A=E9=9C=
+=80=E8=A6=81=E4=B8=B4=E6=97=B6=E8=A3=85=E8=BD=BD=E5=88=B0=E6=96=87=E4=BB=B6=
+=E7=B3=BB=E7=BB=9F=E4=B8=AD=E3=80=82=E6=AD=A3=E5=B8=B8=E6=83=85=E5=86=B5=E4=
+=B8=8B=EF=BC=8C=E8=AE=BE=E5=A4=87=E4=BC=9A=E6=9C=89=E4=B8=80=E4=B8=AA=E7=8B=
+=AC=E7=AB=8B=E7=9A=84=E5=AD=90=E7=9B=AE=E5=BD=95=E3=80=82=E8=BF=99=E4=BA=9B=
+=E8=AE=BE=E5=A4=87=E7=9A=84=E5=86=85=E5=AE=B9=E4=BC=9A=E5=87=BA=E7=8E=B0=E5=
+=9C=A8=E7=8B=AC=E7=AB=8B=E7=9A=84=E5=AD=90=E7=9B=AE=E5=BD=95=E4=B8=8B=E3=80=
+=82</p></li></ul></li>
+</ul></span></span></li></ol></div>
+    </div>
+
+
+
+
+
+<div id=3D"qb-sougou-search" style=3D"display: none; opacity: 0;"><p>=E6=90=
+=9C=E7=B4=A2</p><p class=3D"last-btn">=E5=A4=8D=E5=88=B6</p><iframe src=3D"=
+cid:frame-62-81071b52-c7cd-4f57-9ac4-cacb5fba11dc@mhtml.blink"></iframe></d=
+iv><div id=3D"qb_collection_img_mask" style=3D"display: none; top: 378.6px;=
+ left: 1410.5px;"> <div class=3D"qb_collection_img_icon"></div> <span>=E6=
+=94=B6=E8=97=8F</span> </div></body><template shadowmode=3D"v0"><content></=
+content><style></style></template></html>
+------MultipartBoundary--a99MyE8HTdGG1PGcANB0c4MJFG2baeRgWKFY3jiIZS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.didispace.com/tools/online-markdown/themes/atelier-forest-light.css
+
+@charset "utf-8";
+
+.prettyprint { background: rgb(241, 239, 238); font-family: Menlo, "Bitstre=
+am Vera Sans Mono", "DejaVu Sans Mono", Monaco, Consolas, monospace; border=
+: 0px !important; }
+
+.pln { color: rgb(27, 25, 24); }
+
+ol.linenums { margin-top: 0px; margin-bottom: 0px; color: rgb(156, 148, 145=
+); }
+
+li.L0, li.L1, li.L2, li.L3, li.L4, li.L5, li.L6, li.L7, li.L8, li.L9 { padd=
+ing-left: 1em; background-color: rgb(241, 239, 238); list-style-type: decim=
+al; }
+
+@media screen {
+  .str { color: rgb(123, 151, 38); }
+  .kwd { color: rgb(102, 102, 234); }
+  .com { color: rgb(156, 148, 145); }
+  .typ { color: rgb(64, 126, 231); }
+  .lit { color: rgb(223, 83, 32); }
+  .pun { color: rgb(27, 25, 24); }
+  .opn { color: rgb(27, 25, 24); }
+  .clo { color: rgb(27, 25, 24); }
+  .tag { color: rgb(242, 44, 64); }
+  .atn { color: rgb(223, 83, 32); }
+  .atv { color: rgb(61, 151, 184); }
+  .dec { color: rgb(223, 83, 32); }
+  .var { color: rgb(242, 44, 64); }
+  .fun { color: rgb(64, 126, 231); }
+}
+------MultipartBoundary--a99MyE8HTdGG1PGcANB0c4MJFG2baeRgWKFY3jiIZS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.didispace.com/tools/online-markdown/pageThemes/%E5%AD%97%E5%8F%B7%E5%81%8F%E5%A4%A7-%E9%97%B4%E8%B7%9D%E5%81%8F%E5%A4%A7-%E5%AE%BD%E5%B1%8F%E6%A8%A1%E5%BC%8F.css
+
+@charset "utf-8";
+
+.wrapper { font-size: 16px; font-family: Avenir, -apple-system-font, =E5=BE=
+=AE=E8=BD=AF=E9=9B=85=E9=BB=91, sans-serif; }
+
+.wrapper p { font-size: 16px; white-space: pre-line; line-height: 30px; col=
+or: rgb(74, 74, 74); }
+
+.wrapper blockquote { line-height: 22px; }
+
+.wrapper blockquote p { font-size: 14px; }
+
+.wrapper h1 { font-size: 28px; }
+
+.wrapper h2 { font-size: 24px; }
+
+.wrapper h3 { font-size: 20px; }
+
+.wrapper h4 { font-size: 18px; }
+
+.wrapper ul li span, .wrapper ol li span { line-height: 22px; font-size: 14=
+px !important; }
+------MultipartBoundary--a99MyE8HTdGG1PGcANB0c4MJFG2baeRgWKFY3jiIZS----
+Content-Type: text/html
+Content-ID: <frame-61-9cc1bef8-7e47-4315-b38a-8eb52b98fc2a@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://ghbtns.com/github-btn.html?user=dyc87112&repo=online-markdown&type=watch&count=true&size=middle
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><style></style></head><body><style>body{padding:0;margin:0;font:7=
+00 11px/14px 'Helvetica Neue',Helvetica,Arial,sans-serif;overflow:hidden}.g=
+ithub-btn{height:20px;overflow:hidden}.gh-btn,.gh-count,.gh-ico{float:left}=
+.gh-btn,.gh-count{padding:2px 5px 2px 4px;color:#333;text-decoration:none;t=
+ext-shadow:0 1px 0 #fff;white-space:nowrap;cursor:pointer;border-radius:3px=
+}.gh-btn{background-color:#eee;background-image:-webkit-gradient(linear,lef=
+t top,left bottom,color-stop(0,#fcfcfc),color-stop(100%,#eee));background-i=
+mage:-webkit-linear-gradient(top,#fcfcfc 0,#eee 100%);background-image:-moz=
+-linear-gradient(top,#fcfcfc 0,#eee 100%);background-image:-ms-linear-gradi=
+ent(top,#fcfcfc 0,#eee 100%);background-image:-o-linear-gradient(top,#fcfcf=
+c 0,#eee 100%);background-image:linear-gradient(to bottom,#fcfcfc 0,#eee 10=
+0%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=3D'#fcf=
+cfc', endColorstr=3D'#eeeeee', GradientType=3D0);background-repeat:no-repea=
+t;border:1px solid #d5d5d5}.gh-btn:focus,.gh-btn:hover{text-decoration:none=
+;background-color:#ddd;background-image:-webkit-gradient(linear,left top,le=
+ft bottom,color-stop(0,#eee),color-stop(100%,#ddd));background-image:-webki=
+t-linear-gradient(top,#eee 0,#ddd 100%);background-image:-moz-linear-gradie=
+nt(top,#eee 0,#ddd 100%);background-image:-ms-linear-gradient(top,#eee 0,#d=
+dd 100%);background-image:-o-linear-gradient(top,#eee 0,#ddd 100%);backgrou=
+nd-image:linear-gradient(to bottom,#eee 0,#ddd 100%);filter:progid:DXImageT=
+ransform.Microsoft.gradient(startColorstr=3D'#eeeeee', endColorstr=3D'#dddd=
+dd', GradientType=3D0);border-color:#ccc}.gh-btn:active{background-image:no=
+ne;background-color:#dcdcdc;border-color:#b5b5b5;box-shadow:inset 0 2px 4px=
+ rgba(0,0,0,.15)}.gh-ico{width:14px;height:14px;margin-right:4px;background=
+-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcm=
+cvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2Z=
+XJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQwcHgiIGhl=
+aWdodD0iNDBweCIgdmlld0JveD0iMTIgMTIgNDAgNDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXc=
+gMTIgMTIgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiMzMzMzMzMiIG=
+Q9Ik0zMiAxMy40Yy0xMC41IDAtMTkgOC41LTE5IDE5YzAgOC40IDUuNSAxNS41IDEzIDE4YzEgM=
+C4yIDEuMy0wLjQgMS4zLTAuOWMwLTAuNSAwLTEuNyAwLTMuMiBjLTUuMyAxLjEtNi40LTIuNi02=
+LjQtMi42QzIwIDQxLjYgMTguOCA0MSAxOC44IDQxYy0xLjctMS4yIDAuMS0xLjEgMC4xLTEuMWM=
+xLjkgMC4xIDIuOSAyIDIuOSAyYzEuNyAyLjkgNC41IDIuMSA1LjUgMS42IGMwLjItMS4yIDAuNy=
+0yLjEgMS4yLTIuNmMtNC4yLTAuNS04LjctMi4xLTguNy05LjRjMC0yLjEgMC43LTMuNyAyLTUuM=
+WMtMC4yLTAuNS0wLjgtMi40IDAuMi01YzAgMCAxLjYtMC41IDUuMiAyIGMxLjUtMC40IDMuMS0w=
+LjcgNC44LTAuN2MxLjYgMCAzLjMgMC4yIDQuNyAwLjdjMy42LTIuNCA1LjItMiA1LjItMmMxIDI=
+uNiAwLjQgNC42IDAuMiA1YzEuMiAxLjMgMiAzIDIgNS4xYzAgNy4zLTQuNSA4LjktOC43IDkuNC=
+BjMC43IDAuNiAxLjMgMS43IDEuMyAzLjVjMCAyLjYgMCA0LjYgMCA1LjJjMCAwLjUgMC40IDEuM=
+SAxLjMgMC45YzcuNS0yLjYgMTMtOS43IDEzLTE4LjFDNTEgMjEuOSA0Mi41IDEzLjQgMzIgMTMu=
+NHoiLz48L3N2Zz4=3D);background-size:100% 100%;background-repeat:no-repeat}.=
+gh-count{position:relative;display:none;margin-left:4px;background-color:#f=
+afafa;border:1px solid #d4d4d4}.gh-count:focus,.gh-count:hover{color:#4183C=
+4}.gh-count:after,.gh-count:before{content:'';position:absolute;display:inl=
+ine-block;width:0;height:0;border-color:transparent;border-style:solid}.gh-=
+count:before{top:50%;left:-3px;margin-top:-4px;border-width:4px 4px 4px 0;b=
+order-right-color:#fafafa}.gh-count:after{top:50%;left:-4px;z-index:-1;marg=
+in-top:-5px;border-width:5px 5px 5px 0;border-right-color:#d4d4d4}.github-b=
+tn-large{height:30px}.github-btn-large .gh-btn,.github-btn-large .gh-count{=
+padding:3px 10px 3px 8px;font-size:16px;line-height:22px;border-radius:4px}=
+.github-btn-large .gh-ico{width:20px;height:20px}.github-btn-large .gh-coun=
+t{margin-left:6px}.github-btn-large .gh-count:before{left:-5px;margin-top:-=
+6px;border-width:6px 6px 6px 0}.github-btn-large .gh-count:after{left:-6px;=
+margin-top:-7px;border-width:7px 7px 7px 0}</style><span class=3D"github-bt=
+n github-stargazers" id=3D"github-btn"><a class=3D"gh-btn" id=3D"gh-btn" hr=
+ef=3D"https://github.com/dyc87112/online-markdown/" target=3D"_blank" aria-=
+label=3D"Star on GitHub"><span class=3D"gh-ico" aria-hidden=3D"true"></span=
+> <span class=3D"gh-text" id=3D"gh-text">Star</span></a> <a class=3D"gh-cou=
+nt" id=3D"gh-count" href=3D"https://github.com/dyc87112/online-markdown/sta=
+rgazers" target=3D"_blank" aria-label=3D"563 stargazers on GitHub" style=3D=
+"display: block;">563</a></span></body><template shadowmode=3D"v0"><content=
+></content><style></style></template></html>
+------MultipartBoundary--a99MyE8HTdGG1PGcANB0c4MJFG2baeRgWKFY3jiIZS----
+Content-Type: text/html
+Content-ID: <frame-62-81071b52-c7cd-4f57-9ac4-cacb5fba11dc@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><style></style></head><body></body><template shadowmode=3D"v0"><c=
+ontent></content><style></style></template></html>
+------MultipartBoundary--a99MyE8HTdGG1PGcANB0c4MJFG2baeRgWKFY3jiIZS------
